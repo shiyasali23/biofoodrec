@@ -1,5 +1,7 @@
 # biofoodrec
 
+[![tests](https://github.com/shiyasali23/biofoodrec/actions/workflows/tests.yml/badge.svg)](https://github.com/shiyasali23/biofoodrec/actions/workflows/tests.yml)
+
 Food recommendations from blood test results.
 
 Give it a person's blood test results. It tells you which results are high or low, which foods fit
@@ -16,10 +18,10 @@ or clinic platform can install it and use it directly. The Biolabs data is insid
 ## Install
 
 ```bash
-pip install ./biofoodrec
+pip install git+https://github.com/shiyasali23/biofoodrec
 ```
 
-Or from GitHub once it is pushed: `pip install git+https://github.com/<you>/biofoodrec`.
+Or from a local copy: `pip install ./biofoodrec`.
 It needs Python 3.9 or newer, numpy and pandas.
 
 ## Quick start
