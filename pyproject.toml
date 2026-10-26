@@ -4,17 +4,21 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "biofoodrec"
-version = "0.1.0"
-description = "Personalized food recommendations from blood biochemistry, with tunable bias and weight tables"
+version = "0.2.0"
+description = "Food recommendations from blood test results, with bias and weight tables you can tune per person"
 readme = "README.md"
 requires-python = ">=3.9"
 dependencies = ["numpy>=1.24", "pandas>=2.0"]
 
 [project.optional-dependencies]
 test = ["pytest>=7"]
+notebook = ["jupyterlab>=4", "ipywidgets>=8"]
 
 [tool.setuptools.packages.find]
 where = ["src"]
+
+[tool.setuptools.package-data]
+biofoodrec = ["data/*.csv", "data/*.json"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

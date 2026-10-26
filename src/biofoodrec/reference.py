@@ -1,7 +1,7 @@
-"""Reference tables: biochemicals, foods, nutrients and the bias/weight tables that link them.
+"""The reference tables: biochemicals, foods, nutrients, and the bias and weight tables that link them.
 
-Every table is aligned by *name*, never by row position, so a CSV with its columns in a
-different order (the nutrient bias and weight files already differ) still lines up.
+Tables are matched by name, never by position. The nutrient bias and weight files list their
+columns in different orders, and they still line up.
 """
 from __future__ import annotations
 
@@ -11,7 +11,9 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-# Default file names, as they sit in Biolabs/backend/datasets.
+DATA = Path(__file__).parent / "data"
+
+# File names as they sit in Biolabs/backend/datasets and in the bundled data folder.
 DEFAULT_FILES = {
     "biochemicals": "biochemical_units.csv",
     "foods": "food_nutrients.csv",
@@ -50,7 +52,12 @@ class ReferenceData:
     nutrient_bias: pd.DataFrame    # biochemicals x nutrients
     nutrient_weight: pd.DataFrame  # biochemicals x nutrients
 
-    # ---------- loading ----------
+    # Loading
+
+    @classmethod
+    def bundled(cls) -> "ReferenceData":
+        """The Biolabs tables that ship with the package (58 biochemicals, 150 foods, 75 nutrients)."""
+        return cls.from_csv_dir(DATA)
 
     @classmethod
     def from_csv_dir(cls, directory: str | Path, **paths) -> "ReferenceData":
@@ -85,7 +92,7 @@ class ReferenceData:
                 found = frame.index if axis == "rows" else frame.columns
                 if missing := _missing(expected, found):
                     problems.append(f"{label} is missing {axis} {missing[:5]}{' ...' if len(missing) > 5 else ''}")
-            # A blank cell means "no link", which the backend also stores as 0.
+            # A blank cell means no link, which the backend also stores as 0.
             return frame.reindex(index=biochemicals.index, columns=columns).astype(float).fillna(0.0)
 
         tables = {
@@ -105,7 +112,7 @@ class ReferenceData:
             **tables,
         )
 
-    # ---------- lookups ----------
+    # Lookups
 
     def biochemical_name(self, key: str | int) -> str:
         """Accept a name or the backend's 1-based biochemical id."""
@@ -122,7 +129,7 @@ class ReferenceData:
         prefix = "male" if sex == "male" else "female"
         return self.biochemicals[[f"{prefix}_min", f"{prefix}_max"]].set_axis(["low", "high"], axis=1)
 
-    # ---------- derived matrices ----------
+    # Derived matrices
 
     @property
     def normalized_nutrients(self) -> np.ndarray:

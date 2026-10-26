@@ -1,0 +1,1421 @@
+{
+ "user": {
+  "first_name": "Sample",
+  "gender": "female",
+  "age": 46
+ },
+ "biometrics_entries": [
+  {
+   "created_at": "2025-03-19T20:01:40.117397Z",
+   "biometrics": [
+    {
+     "id": 1,
+     "name": "Blood Glucose",
+     "unit": "mg/dL",
+     "value": 102.4
+    },
+    {
+     "id": 2,
+     "name": "Hemoglobin A1c",
+     "unit": "%",
+     "value": 5.8
+    },
+    {
+     "id": 3,
+     "name": "Glycated Albumin",
+     "unit": "%",
+     "value": 13.8
+    },
+    {
+     "id": 4,
+     "name": "Total Cholesterol",
+     "unit": "mg/dL",
+     "value": 213.6
+    },
+    {
+     "id": 5,
+     "name": "LDL Cholesterol",
+     "unit": "mg/dL",
+     "value": 158.3
+    },
+    {
+     "id": 6,
+     "name": "HDL Cholesterol",
+     "unit": "mg/dL",
+     "value": 47.3
+    },
+    {
+     "id": 7,
+     "name": "Triglycerides",
+     "unit": "mg/dL",
+     "value": 198.4
+    },
+    {
+     "id": 8,
+     "name": "Apolipoprotein A1",
+     "unit": "mg/dL",
+     "value": 112.4
+    },
+    {
+     "id": 9,
+     "name": "Apolipoprotein B",
+     "unit": "mg/dL",
+     "value": 134.8
+    },
+    {
+     "id": 10,
+     "name": "Vitamin D",
+     "unit": "ng/mL",
+     "value": 18.4
+    },
+    {
+     "id": 11,
+     "name": "Vitamin C",
+     "unit": "mg/L",
+     "value": 3.7
+    },
+    {
+     "id": 12,
+     "name": "Vitamin K",
+     "unit": "ng/mL",
+     "value": 1.8
+    },
+    {
+     "id": 13,
+     "name": "Vitamin B6 (Pyridoxine)",
+     "unit": "ng/mL",
+     "value": 27.4
+    },
+    {
+     "id": 14,
+     "name": "Vitamin B1 (Thiamine)",
+     "unit": "nmol/L",
+     "value": 123.7
+    },
+    {
+     "id": 15,
+     "name": "Vitamin B2 (Riboflavin)",
+     "unit": "nmol/L",
+     "value": 18.4
+    },
+    {
+     "id": 16,
+     "name": "Vitamin B3 (Niacin)",
+     "unit": "\u00b5g/L",
+     "value": 22.8
+    },
+    {
+     "id": 17,
+     "name": "Vitamin B5 (Pantothenic Acid)",
+     "unit": "\u00b5g/L",
+     "value": 423.6
+    },
+    {
+     "id": 18,
+     "name": "Vitamin B7 (Biotin)",
+     "unit": "ng/L",
+     "value": 487.3
+    },
+    {
+     "id": 19,
+     "name": "Vitamin B9 (Folate)",
+     "unit": "ng/mL",
+     "value": 7.8
+    },
+    {
+     "id": 20,
+     "name": "Vitamin B12 (Cobalamin)",
+     "unit": "pg/mL",
+     "value": 456.8
+    },
+    {
+     "id": 21,
+     "name": "Vitamin A",
+     "unit": "\u00b5g/dL",
+     "value": 42.7
+    },
+    {
+     "id": 22,
+     "name": "Creatinine",
+     "unit": "mg/dL",
+     "value": 0.92
+    },
+    {
+     "id": 23,
+     "name": "Uric Acid",
+     "unit": "mg/dL",
+     "value": 6.3
+    },
+    {
+     "id": 24,
+     "name": "Blood Urea Nitrogen",
+     "unit": "mg/dL",
+     "value": 15.8
+    },
+    {
+     "id": 25,
+     "name": "Cystatin C",
+     "unit": "mg/L",
+     "value": 0.88
+    },
+    {
+     "id": 26,
+     "name": "Sodium",
+     "unit": "mEq/L",
+     "value": 141.3
+    },
+    {
+     "id": 27,
+     "name": "Potassium",
+     "unit": "mEq/L",
+     "value": 4.4
+    },
+    {
+     "id": 28,
+     "name": "Calcium",
+     "unit": "mg/dL",
+     "value": 9.2
+    },
+    {
+     "id": 29,
+     "name": "Magnesium",
+     "unit": "mg/dL",
+     "value": 1.65
+    },
+    {
+     "id": 30,
+     "name": "Phosphate",
+     "unit": "mg/dL",
+     "value": 3.2
+    },
+    {
+     "id": 31,
+     "name": "Chloride",
+     "unit": "mEq/L",
+     "value": 103.4
+    },
+    {
+     "id": 32,
+     "name": "Bicarbonate",
+     "unit": "mEq/L",
+     "value": 24.8
+    },
+    {
+     "id": 33,
+     "name": "Iron",
+     "unit": "\u00b5g/dL",
+     "value": 48.3
+    },
+    {
+     "id": 34,
+     "name": "Globulin",
+     "unit": "g/dL",
+     "value": 2.7
+    },
+    {
+     "id": 35,
+     "name": "Albumin",
+     "unit": "g/dL",
+     "value": 3.4
+    },
+    {
+     "id": 36,
+     "name": "Total Protein",
+     "unit": "g/dL",
+     "value": 6.1
+    },
+    {
+     "id": 37,
+     "name": "Albumin/Globulin Ratio",
+     "unit": "ratio",
+     "value": 1.26
+    },
+    {
+     "id": 38,
+     "name": "C-Reactive Protein",
+     "unit": "mg/L",
+     "value": 3.8
+    },
+    {
+     "id": 39,
+     "name": "Haptoglobin",
+     "unit": "mg/dL",
+     "value": 187.4
+    },
+    {
+     "id": 40,
+     "name": "Transferrin",
+     "unit": "mg/dL",
+     "value": 234.7
+    },
+    {
+     "id": 41,
+     "name": "C-Peptide",
+     "unit": "ng/mL",
+     "value": 3.7
+    },
+    {
+     "id": 42,
+     "name": "Testosterone",
+     "unit": "ng/dL",
+     "value": 42.8
+    },
+    {
+     "id": 43,
+     "name": "Estrogen",
+     "unit": "pg/mL",
+     "value": 67.4
+    },
+    {
+     "id": 44,
+     "name": "Progesterone",
+     "unit": "ng/mL",
+     "value": 0.8
+    },
+    {
+     "id": 45,
+     "name": "Cortisol",
+     "unit": "\u00b5g/dL",
+     "value": 24.8
+    },
+    {
+     "id": 46,
+     "name": "Aldosterone",
+     "unit": "ng/dL",
+     "value": 9.8
+    },
+    {
+     "id": 47,
+     "name": "Thyroid-Stimulating Hormone (TSH)",
+     "unit": "mIU/L",
+     "value": 4.3
+    },
+    {
+     "id": 48,
+     "name": "Free Thyroxine (Free T4)",
+     "unit": "ng/dL",
+     "value": 0.68
+    },
+    {
+     "id": 49,
+     "name": "Free Triiodothyronine (Free T3)",
+     "unit": "pg/mL",
+     "value": 2.1
+    },
+    {
+     "id": 50,
+     "name": "Aspartate Aminotransferase",
+     "unit": "U/L",
+     "value": 38.4
+    },
+    {
+     "id": 51,
+     "name": "Alanine Aminotransferase",
+     "unit": "U/L",
+     "value": 41.3
+    },
+    {
+     "id": 52,
+     "name": "Alkaline Phosphatase",
+     "unit": "U/L",
+     "value": 112.7
+    },
+    {
+     "id": 53,
+     "name": "Gamma-Glutamyl Transferase",
+     "unit": "U/L",
+     "value": 42.8
+    },
+    {
+     "id": 54,
+     "name": "Bilirubin",
+     "unit": "mg/dL",
+     "value": 1.3
+    },
+    {
+     "id": 55,
+     "name": "Lactate Dehydrogenase",
+     "unit": "U/L",
+     "value": 267.4
+    },
+    {
+     "id": 56,
+     "name": "Prothrombin Time",
+     "unit": "seconds",
+     "value": 13.8
+    },
+    {
+     "id": 57,
+     "name": "Partial Thromboplastin Time",
+     "unit": "seconds",
+     "value": 34.7
+    },
+    {
+     "id": 58,
+     "name": "Fibrinogen",
+     "unit": "mg/dL",
+     "value": 387.4
+    }
+   ]
+  },
+  {
+   "created_at": "2025-03-19T20:01:40.295590Z",
+   "biometrics": [
+    {
+     "id": 1,
+     "name": "Blood Glucose",
+     "unit": "mg/dL",
+     "value": 98.7
+    },
+    {
+     "id": 2,
+     "name": "Hemoglobin A1c",
+     "unit": "%",
+     "value": 5.7
+    },
+    {
+     "id": 3,
+     "name": "Glycated Albumin",
+     "unit": "%",
+     "value": 14.2
+    },
+    {
+     "id": 4,
+     "name": "Total Cholesterol",
+     "unit": "mg/dL",
+     "value": 208.4
+    },
+    {
+     "id": 5,
+     "name": "LDL Cholesterol",
+     "unit": "mg/dL",
+     "value": 152.6
+    },
+    {
+     "id": 6,
+     "name": "HDL Cholesterol",
+     "unit": "mg/dL",
+     "value": 48.9
+    },
+    {
+     "id": 7,
+     "name": "Triglycerides",
+     "unit": "mg/dL",
+     "value": 187.6
+    },
+    {
+     "id": 8,
+     "name": "Apolipoprotein A1",
+     "unit": "mg/dL",
+     "value": 118.7
+    },
+    {
+     "id": 9,
+     "name": "Apolipoprotein B",
+     "unit": "mg/dL",
+     "value": 128.3
+    },
+    {
+     "id": 10,
+     "name": "Vitamin D",
+     "unit": "ng/mL",
+     "value": 21.7
+    },
+    {
+     "id": 11,
+     "name": "Vitamin C",
+     "unit": "mg/L",
+     "value": 4.8
+    },
+    {
+     "id": 12,
+     "name": "Vitamin K",
+     "unit": "ng/mL",
+     "value": 1.9
+    },
+    {
+     "id": 13,
+     "name": "Vitamin B6 (Pyridoxine)",
+     "unit": "ng/mL",
+     "value": 31.8
+    },
+    {
+     "id": 14,
+     "name": "Vitamin B1 (Thiamine)",
+     "unit": "nmol/L",
+     "value": 125.4
+    },
+    {
+     "id": 15,
+     "name": "Vitamin B2 (Riboflavin)",
+     "unit": "nmol/L",
+     "value": 21.3
+    },
+    {
+     "id": 16,
+     "name": "Vitamin B3 (Niacin)",
+     "unit": "\u00b5g/L",
+     "value": 26.4
+    },
+    {
+     "id": 17,
+     "name": "Vitamin B5 (Pantothenic Acid)",
+     "unit": "\u00b5g/L",
+     "value": 445.8
+    },
+    {
+     "id": 18,
+     "name": "Vitamin B7 (Biotin)",
+     "unit": "ng/L",
+     "value": 492.8
+    },
+    {
+     "id": 19,
+     "name": "Vitamin B9 (Folate)",
+     "unit": "ng/mL",
+     "value": 8.4
+    },
+    {
+     "id": 20,
+     "name": "Vitamin B12 (Cobalamin)",
+     "unit": "pg/mL",
+     "value": 478.3
+    },
+    {
+     "id": 21,
+     "name": "Vitamin A",
+     "unit": "\u00b5g/dL",
+     "value": 44.3
+    },
+    {
+     "id": 22,
+     "name": "Creatinine",
+     "unit": "mg/dL",
+     "value": 0.88
+    },
+    {
+     "id": 23,
+     "name": "Uric Acid",
+     "unit": "mg/dL",
+     "value": 5.8
+    },
+    {
+     "id": 24,
+     "name": "Blood Urea Nitrogen",
+     "unit": "mg/dL",
+     "value": 14.9
+    },
+    {
+     "id": 25,
+     "name": "Cystatin C",
+     "unit": "mg/L",
+     "value": 0.84
+    },
+    {
+     "id": 26,
+     "name": "Sodium",
+     "unit": "mEq/L",
+     "value": 140.6
+    },
+    {
+     "id": 27,
+     "name": "Potassium",
+     "unit": "mEq/L",
+     "value": 4.3
+    },
+    {
+     "id": 28,
+     "name": "Calcium",
+     "unit": "mg/dL",
+     "value": 9.3
+    },
+    {
+     "id": 29,
+     "name": "Magnesium",
+     "unit": "mg/dL",
+     "value": 1.72
+    },
+    {
+     "id": 30,
+     "name": "Phosphate",
+     "unit": "mg/dL",
+     "value": 3.4
+    },
+    {
+     "id": 31,
+     "name": "Chloride",
+     "unit": "mEq/L",
+     "value": 102.8
+    },
+    {
+     "id": 32,
+     "name": "Bicarbonate",
+     "unit": "mEq/L",
+     "value": 25.2
+    },
+    {
+     "id": 33,
+     "name": "Iron",
+     "unit": "\u00b5g/dL",
+     "value": 53.7
+    },
+    {
+     "id": 34,
+     "name": "Globulin",
+     "unit": "g/dL",
+     "value": 2.8
+    },
+    {
+     "id": 35,
+     "name": "Albumin",
+     "unit": "g/dL",
+     "value": 3.6
+    },
+    {
+     "id": 36,
+     "name": "Total Protein",
+     "unit": "g/dL",
+     "value": 6.4
+    },
+    {
+     "id": 37,
+     "name": "Albumin/Globulin Ratio",
+     "unit": "ratio",
+     "value": 1.29
+    },
+    {
+     "id": 38,
+     "name": "C-Reactive Protein",
+     "unit": "mg/L",
+     "value": 3.2
+    },
+    {
+     "id": 39,
+     "name": "Haptoglobin",
+     "unit": "mg/dL",
+     "value": 173.8
+    },
+    {
+     "id": 40,
+     "name": "Transferrin",
+     "unit": "mg/dL",
+     "value": 248.3
+    },
+    {
+     "id": 41,
+     "name": "C-Peptide",
+     "unit": "ng/mL",
+     "value": 3.4
+    },
+    {
+     "id": 42,
+     "name": "Testosterone",
+     "unit": "ng/dL",
+     "value": 40.3
+    },
+    {
+     "id": 43,
+     "name": "Estrogen",
+     "unit": "pg/mL",
+     "value": 72.8
+    },
+    {
+     "id": 44,
+     "name": "Progesterone",
+     "unit": "ng/mL",
+     "value": 1.2
+    },
+    {
+     "id": 45,
+     "name": "Cortisol",
+     "unit": "\u00b5g/dL",
+     "value": 22.3
+    },
+    {
+     "id": 46,
+     "name": "Aldosterone",
+     "unit": "ng/dL",
+     "value": 9.2
+    },
+    {
+     "id": 47,
+     "name": "Thyroid-Stimulating Hormone (TSH)",
+     "unit": "mIU/L",
+     "value": 3.8
+    },
+    {
+     "id": 48,
+     "name": "Free Thyroxine (Free T4)",
+     "unit": "ng/dL",
+     "value": 0.72
+    },
+    {
+     "id": 49,
+     "name": "Free Triiodothyronine (Free T3)",
+     "unit": "pg/mL",
+     "value": 2.3
+    },
+    {
+     "id": 50,
+     "name": "Aspartate Aminotransferase",
+     "unit": "U/L",
+     "value": 35.7
+    },
+    {
+     "id": 51,
+     "name": "Alanine Aminotransferase",
+     "unit": "U/L",
+     "value": 37.8
+    },
+    {
+     "id": 52,
+     "name": "Alkaline Phosphatase",
+     "unit": "U/L",
+     "value": 106.4
+    },
+    {
+     "id": 53,
+     "name": "Gamma-Glutamyl Transferase",
+     "unit": "U/L",
+     "value": 38.4
+    },
+    {
+     "id": 54,
+     "name": "Bilirubin",
+     "unit": "mg/dL",
+     "value": 1.1
+    },
+    {
+     "id": 55,
+     "name": "Lactate Dehydrogenase",
+     "unit": "U/L",
+     "value": 254.8
+    },
+    {
+     "id": 56,
+     "name": "Prothrombin Time",
+     "unit": "seconds",
+     "value": 13.4
+    },
+    {
+     "id": 57,
+     "name": "Partial Thromboplastin Time",
+     "unit": "seconds",
+     "value": 33.8
+    },
+    {
+     "id": 58,
+     "name": "Fibrinogen",
+     "unit": "mg/dL",
+     "value": 372.8
+    }
+   ]
+  },
+  {
+   "created_at": "2025-03-19T20:01:40.594568Z",
+   "biometrics": [
+    {
+     "id": 1,
+     "name": "Blood Glucose",
+     "unit": "mg/dL",
+     "value": 94.3
+    },
+    {
+     "id": 2,
+     "name": "Hemoglobin A1c",
+     "unit": "%",
+     "value": 5.5
+    },
+    {
+     "id": 3,
+     "name": "Glycated Albumin",
+     "unit": "%",
+     "value": 13.9
+    },
+    {
+     "id": 4,
+     "name": "Total Cholesterol",
+     "unit": "mg/dL",
+     "value": 204.7
+    },
+    {
+     "id": 5,
+     "name": "LDL Cholesterol",
+     "unit": "mg/dL",
+     "value": 147.8
+    },
+    {
+     "id": 6,
+     "name": "HDL Cholesterol",
+     "unit": "mg/dL",
+     "value": 51.2
+    },
+    {
+     "id": 7,
+     "name": "Triglycerides",
+     "unit": "mg/dL",
+     "value": 176.3
+    },
+    {
+     "id": 8,
+     "name": "Apolipoprotein A1",
+     "unit": "mg/dL",
+     "value": 125.3
+    },
+    {
+     "id": 9,
+     "name": "Apolipoprotein B",
+     "unit": "mg/dL",
+     "value": 122.7
+    },
+    {
+     "id": 10,
+     "name": "Vitamin D",
+     "unit": "ng/mL",
+     "value": 24.3
+    },
+    {
+     "id": 11,
+     "name": "Vitamin C",
+     "unit": "mg/L",
+     "value": 6.2
+    },
+    {
+     "id": 12,
+     "name": "Vitamin K",
+     "unit": "ng/mL",
+     "value": 2.1
+    },
+    {
+     "id": 13,
+     "name": "Vitamin B6 (Pyridoxine)",
+     "unit": "ng/mL",
+     "value": 35.2
+    },
+    {
+     "id": 14,
+     "name": "Vitamin B1 (Thiamine)",
+     "unit": "nmol/L",
+     "value": 128.9
+    },
+    {
+     "id": 15,
+     "name": "Vitamin B2 (Riboflavin)",
+     "unit": "nmol/L",
+     "value": 24.7
+    },
+    {
+     "id": 16,
+     "name": "Vitamin B3 (Niacin)",
+     "unit": "\u00b5g/L",
+     "value": 29.7
+    },
+    {
+     "id": 17,
+     "name": "Vitamin B5 (Pantothenic Acid)",
+     "unit": "\u00b5g/L",
+     "value": 467.2
+    },
+    {
+     "id": 18,
+     "name": "Vitamin B7 (Biotin)",
+     "unit": "ng/L",
+     "value": 498.4
+    },
+    {
+     "id": 19,
+     "name": "Vitamin B9 (Folate)",
+     "unit": "ng/mL",
+     "value": 9.2
+    },
+    {
+     "id": 20,
+     "name": "Vitamin B12 (Cobalamin)",
+     "unit": "pg/mL",
+     "value": 492.7
+    },
+    {
+     "id": 21,
+     "name": "Vitamin A",
+     "unit": "\u00b5g/dL",
+     "value": 45.8
+    },
+    {
+     "id": 22,
+     "name": "Creatinine",
+     "unit": "mg/dL",
+     "value": 0.85
+    },
+    {
+     "id": 23,
+     "name": "Uric Acid",
+     "unit": "mg/dL",
+     "value": 5.4
+    },
+    {
+     "id": 24,
+     "name": "Blood Urea Nitrogen",
+     "unit": "mg/dL",
+     "value": 14.3
+    },
+    {
+     "id": 25,
+     "name": "Cystatin C",
+     "unit": "mg/L",
+     "value": 0.81
+    },
+    {
+     "id": 26,
+     "name": "Sodium",
+     "unit": "mEq/L",
+     "value": 139.8
+    },
+    {
+     "id": 27,
+     "name": "Potassium",
+     "unit": "mEq/L",
+     "value": 4.2
+    },
+    {
+     "id": 28,
+     "name": "Calcium",
+     "unit": "mg/dL",
+     "value": 9.4
+    },
+    {
+     "id": 29,
+     "name": "Magnesium",
+     "unit": "mg/dL",
+     "value": 1.78
+    },
+    {
+     "id": 30,
+     "name": "Phosphate",
+     "unit": "mg/dL",
+     "value": 3.5
+    },
+    {
+     "id": 31,
+     "name": "Chloride",
+     "unit": "mEq/L",
+     "value": 102.3
+    },
+    {
+     "id": 32,
+     "name": "Bicarbonate",
+     "unit": "mEq/L",
+     "value": 25.7
+    },
+    {
+     "id": 33,
+     "name": "Iron",
+     "unit": "\u00b5g/dL",
+     "value": 58.4
+    },
+    {
+     "id": 34,
+     "name": "Globulin",
+     "unit": "g/dL",
+     "value": 2.9
+    },
+    {
+     "id": 35,
+     "name": "Albumin",
+     "unit": "g/dL",
+     "value": 3.8
+    },
+    {
+     "id": 36,
+     "name": "Total Protein",
+     "unit": "g/dL",
+     "value": 6.7
+    },
+    {
+     "id": 37,
+     "name": "Albumin/Globulin Ratio",
+     "unit": "ratio",
+     "value": 1.31
+    },
+    {
+     "id": 38,
+     "name": "C-Reactive Protein",
+     "unit": "mg/L",
+     "value": 2.7
+    },
+    {
+     "id": 39,
+     "name": "Haptoglobin",
+     "unit": "mg/dL",
+     "value": 162.5
+    },
+    {
+     "id": 40,
+     "name": "Transferrin",
+     "unit": "mg/dL",
+     "value": 259.6
+    },
+    {
+     "id": 41,
+     "name": "C-Peptide",
+     "unit": "ng/mL",
+     "value": 3.1
+    },
+    {
+     "id": 42,
+     "name": "Testosterone",
+     "unit": "ng/dL",
+     "value": 38.7
+    },
+    {
+     "id": 43,
+     "name": "Estrogen",
+     "unit": "pg/mL",
+     "value": 78.3
+    },
+    {
+     "id": 44,
+     "name": "Progesterone",
+     "unit": "ng/mL",
+     "value": 1.5
+    },
+    {
+     "id": 45,
+     "name": "Cortisol",
+     "unit": "\u00b5g/dL",
+     "value": 19.7
+    },
+    {
+     "id": 46,
+     "name": "Aldosterone",
+     "unit": "ng/dL",
+     "value": 8.7
+    },
+    {
+     "id": 47,
+     "name": "Thyroid-Stimulating Hormone (TSH)",
+     "unit": "mIU/L",
+     "value": 3.4
+    },
+    {
+     "id": 48,
+     "name": "Free Thyroxine (Free T4)",
+     "unit": "ng/dL",
+     "value": 0.78
+    },
+    {
+     "id": 49,
+     "name": "Free Triiodothyronine (Free T3)",
+     "unit": "pg/mL",
+     "value": 2.5
+    },
+    {
+     "id": 50,
+     "name": "Aspartate Aminotransferase",
+     "unit": "U/L",
+     "value": 32.8
+    },
+    {
+     "id": 51,
+     "name": "Alanine Aminotransferase",
+     "unit": "U/L",
+     "value": 34.6
+    },
+    {
+     "id": 52,
+     "name": "Alkaline Phosphatase",
+     "unit": "U/L",
+     "value": 99.8
+    },
+    {
+     "id": 53,
+     "name": "Gamma-Glutamyl Transferase",
+     "unit": "U/L",
+     "value": 34.7
+    },
+    {
+     "id": 54,
+     "name": "Bilirubin",
+     "unit": "mg/dL",
+     "value": 0.9
+    },
+    {
+     "id": 55,
+     "name": "Lactate Dehydrogenase",
+     "unit": "U/L",
+     "value": 242.3
+    },
+    {
+     "id": 56,
+     "name": "Prothrombin Time",
+     "unit": "seconds",
+     "value": 13.1
+    },
+    {
+     "id": 57,
+     "name": "Partial Thromboplastin Time",
+     "unit": "seconds",
+     "value": 32.9
+    },
+    {
+     "id": 58,
+     "name": "Fibrinogen",
+     "unit": "mg/dL",
+     "value": 358.3
+    }
+   ]
+  },
+  {
+   "created_at": "2025-03-19T20:01:40.958037Z",
+   "biometrics": [
+    {
+     "id": 1,
+     "name": "Blood Glucose",
+     "unit": "mg/dL",
+     "value": 102.4
+    },
+    {
+     "id": 2,
+     "name": "Hemoglobin A1c",
+     "unit": "%",
+     "value": 5.4
+    },
+    {
+     "id": 3,
+     "name": "Glycated Albumin",
+     "unit": "%",
+     "value": 13.5
+    },
+    {
+     "id": 4,
+     "name": "Total Cholesterol",
+     "unit": "mg/dL",
+     "value": 198.3
+    },
+    {
+     "id": 5,
+     "name": "LDL Cholesterol",
+     "unit": "mg/dL",
+     "value": 142.4
+    },
+    {
+     "id": 6,
+     "name": "HDL Cholesterol",
+     "unit": "mg/dL",
+     "value": 53.7
+    },
+    {
+     "id": 7,
+     "name": "Triglycerides",
+     "unit": "mg/dL",
+     "value": 168.9
+    },
+    {
+     "id": 8,
+     "name": "Apolipoprotein A1",
+     "unit": "mg/dL",
+     "value": 132.8
+    },
+    {
+     "id": 9,
+     "name": "Apolipoprotein B",
+     "unit": "mg/dL",
+     "value": 118.4
+    },
+    {
+     "id": 10,
+     "name": "Vitamin D",
+     "unit": "ng/mL",
+     "value": 18.4
+    },
+    {
+     "id": 11,
+     "name": "Vitamin C",
+     "unit": "mg/L",
+     "value": 8.4
+    },
+    {
+     "id": 12,
+     "name": "Vitamin K",
+     "unit": "ng/mL",
+     "value": 2.2
+    },
+    {
+     "id": 13,
+     "name": "Vitamin B6 (Pyridoxine)",
+     "unit": "ng/mL",
+     "value": 38.6
+    },
+    {
+     "id": 14,
+     "name": "Vitamin B1 (Thiamine)",
+     "unit": "nmol/L",
+     "value": 131.2
+    },
+    {
+     "id": 15,
+     "name": "Vitamin B2 (Riboflavin)",
+     "unit": "nmol/L",
+     "value": 27.8
+    },
+    {
+     "id": 16,
+     "name": "Vitamin B3 (Niacin)",
+     "unit": "\u00b5g/L",
+     "value": 32.4
+    },
+    {
+     "id": 17,
+     "name": "Vitamin B5 (Pantothenic Acid)",
+     "unit": "\u00b5g/L",
+     "value": 482.4
+    },
+    {
+     "id": 18,
+     "name": "Vitamin B7 (Biotin)",
+     "unit": "ng/L",
+     "value": 503.7
+    },
+    {
+     "id": 19,
+     "name": "Vitamin B9 (Folate)",
+     "unit": "ng/mL",
+     "value": 10.1
+    },
+    {
+     "id": 20,
+     "name": "Vitamin B12 (Cobalamin)",
+     "unit": "pg/mL",
+     "value": 508.4
+    },
+    {
+     "id": 21,
+     "name": "Vitamin A",
+     "unit": "\u00b5g/dL",
+     "value": 46.9
+    },
+    {
+     "id": 22,
+     "name": "Creatinine",
+     "unit": "mg/dL",
+     "value": 0.83
+    },
+    {
+     "id": 23,
+     "name": "Uric Acid",
+     "unit": "mg/dL",
+     "value": 6.3
+    },
+    {
+     "id": 24,
+     "name": "Blood Urea Nitrogen",
+     "unit": "mg/dL",
+     "value": 13.8
+    },
+    {
+     "id": 25,
+     "name": "Cystatin C",
+     "unit": "mg/L",
+     "value": 0.78
+    },
+    {
+     "id": 26,
+     "name": "Sodium",
+     "unit": "mEq/L",
+     "value": 139.2
+    },
+    {
+     "id": 27,
+     "name": "Potassium",
+     "unit": "mEq/L",
+     "value": 4.1
+    },
+    {
+     "id": 28,
+     "name": "Calcium",
+     "unit": "mg/dL",
+     "value": 9.4
+    },
+    {
+     "id": 29,
+     "name": "Magnesium",
+     "unit": "mg/dL",
+     "value": 1.83
+    },
+    {
+     "id": 30,
+     "name": "Phosphate",
+     "unit": "mg/dL",
+     "value": 3.6
+    },
+    {
+     "id": 31,
+     "name": "Chloride",
+     "unit": "mEq/L",
+     "value": 101.9
+    },
+    {
+     "id": 32,
+     "name": "Bicarbonate",
+     "unit": "mEq/L",
+     "value": 26.1
+    },
+    {
+     "id": 33,
+     "name": "Iron",
+     "unit": "\u00b5g/dL",
+     "value": 47.8
+    },
+    {
+     "id": 34,
+     "name": "Globulin",
+     "unit": "g/dL",
+     "value": 3.0
+    },
+    {
+     "id": 35,
+     "name": "Albumin",
+     "unit": "g/dL",
+     "value": 4.0
+    },
+    {
+     "id": 36,
+     "name": "Total Protein",
+     "unit": "g/dL",
+     "value": 7.0
+    },
+    {
+     "id": 37,
+     "name": "Albumin/Globulin Ratio",
+     "unit": "ratio",
+     "value": 1.33
+    },
+    {
+     "id": 38,
+     "name": "C-Reactive Protein",
+     "unit": "mg/L",
+     "value": 4.0
+    },
+    {
+     "id": 39,
+     "name": "Haptoglobin",
+     "unit": "mg/dL",
+     "value": 154.3
+    },
+    {
+     "id": 40,
+     "name": "Transferrin",
+     "unit": "mg/dL",
+     "value": 268.4
+    },
+    {
+     "id": 41,
+     "name": "C-Peptide",
+     "unit": "ng/mL",
+     "value": 2.8
+    },
+    {
+     "id": 42,
+     "name": "Testosterone",
+     "unit": "ng/dL",
+     "value": 37.4
+    },
+    {
+     "id": 43,
+     "name": "Estrogen",
+     "unit": "pg/mL",
+     "value": 82.6
+    },
+    {
+     "id": 44,
+     "name": "Progesterone",
+     "unit": "ng/mL",
+     "value": 1.8
+    },
+    {
+     "id": 45,
+     "name": "Cortisol",
+     "unit": "\u00b5g/dL",
+     "value": 17.4
+    },
+    {
+     "id": 46,
+     "name": "Aldosterone",
+     "unit": "ng/dL",
+     "value": 8.3
+    },
+    {
+     "id": 47,
+     "name": "Thyroid-Stimulating Hormone (TSH)",
+     "unit": "mIU/L",
+     "value": 4.4
+    },
+    {
+     "id": 48,
+     "name": "Free Thyroxine (Free T4)",
+     "unit": "ng/dL",
+     "value": 0.84
+    },
+    {
+     "id": 49,
+     "name": "Free Triiodothyronine (Free T3)",
+     "unit": "pg/mL",
+     "value": 2.7
+    },
+    {
+     "id": 50,
+     "name": "Aspartate Aminotransferase",
+     "unit": "U/L",
+     "value": 30.2
+    },
+    {
+     "id": 51,
+     "name": "Alanine Aminotransferase",
+     "unit": "U/L",
+     "value": 31.9
+    },
+    {
+     "id": 52,
+     "name": "Alkaline Phosphatase",
+     "unit": "U/L",
+     "value": 94.3
+    },
+    {
+     "id": 53,
+     "name": "Gamma-Glutamyl Transferase",
+     "unit": "U/L",
+     "value": 43.0
+    },
+    {
+     "id": 54,
+     "name": "Bilirubin",
+     "unit": "mg/dL",
+     "value": 0.8
+    },
+    {
+     "id": 55,
+     "name": "Lactate Dehydrogenase",
+     "unit": "U/L",
+     "value": 231.7
+    },
+    {
+     "id": 56,
+     "name": "Prothrombin Time",
+     "unit": "seconds",
+     "value": 12.8
+    },
+    {
+     "id": 57,
+     "name": "Partial Thromboplastin Time",
+     "unit": "seconds",
+     "value": 32.1
+    },
+    {
+     "id": 58,
+     "name": "Fibrinogen",
+     "unit": "mg/dL",
+     "value": 344.6
+    }
+   ]
+  }
+ ]
+}
