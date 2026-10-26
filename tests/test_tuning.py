@@ -30,3 +30,25 @@ def test_scaling_choices_at_the_edge():
     assert dev("legacy") == 0.2     # the backend: looks normal
     assert dev("original") == 1.2   # the research notebook: past the edge
     assert round(dev("linear"), 2) == 1.25
+
+
+def test_lists_are_safe():
+    with pytest.raises(ValueError, match="list of names"):
+        Tuning(exclude_foods="Shrimp")
+    with pytest.raises(ValueError, match="list of names"):
+        Tuning().update({"exclude_foods": "Shrimp"})
+    allergies = Tuning(exclude_foods=("Peanuts",)).update({"exclude_foods": ["Shrimp"]})
+    assert allergies.exclude_foods == ["Peanuts", "Shrimp"]
+
+
+def test_settings_never_share_data():
+    base = Tuning(importance={"Blood Glucose": 2.0})
+    person = base.update({"cap": 3.0})
+    person.importance["Blood Glucose"] = 9.0
+    assert base.importance["Blood Glucose"] == 2.0
+
+
+def test_settings_can_be_dictionary_keys():
+    cache = {Tuning(): "default", Tuning.legacy(): "legacy"}
+    assert cache[Tuning()] == "default"
+    assert Tuning(ranges={"Vitamin D": (30, 60)}) == Tuning.from_dict({"ranges": {"Vitamin D": [30, 60]}})

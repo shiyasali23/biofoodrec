@@ -28,12 +28,13 @@ def test_nutrients(result):
     assert nutrients.Need.max() == 100 or nutrients.Need.min() == -100
 
 
-def test_explain_adds_up(result):
-    food = result.table.index[0]
-    parts = result.explain(food)
-    row = result.table.loc[food]
-    assert np.isclose(parts.Direct.sum(), row.food_effect, atol=0.01)
-    assert np.isclose(parts["Through nutrients"].sum(), row.nutrient_effect, atol=0.01)
+def test_explain_adds_up_to_the_score(result):
+    m = result.matrices()
+    for food in list(result.table.index[:5]) + list(result.table.index[-5:]):
+        parts = result.explain(food)
+        score_100 = 100 * result.table.loc[food, "score"] / 3
+        assert np.isclose(m["base_points"][food] + parts.Points.sum(), score_100, atol=0.1)
+        assert np.allclose(parts.Points, parts.Direct + parts["Through nutrients"], atol=0.02)
 
 
 def test_matrices_rebuild_the_score(result):
@@ -41,9 +42,11 @@ def test_matrices_rebuild_the_score(result):
     direct = m["drive"] @ m["food_coefficients"]
     need = m["drive"] @ m["nutrient_coefficients"]
     through = m["food_nutrients"] @ need
+    through[m["guarded_foods"] & (through > 0)] = 0  # the food guard
     scale = lambda x: (x - x.min()) / (np.ptp(x) + 1e-9)
     assert np.allclose(scale(through) + scale(direct) + m["parts"].nutriscore, m["score"])
     assert np.allclose(m["pull"].sum(), direct + through)
+    assert np.allclose(m["points"].sum() + m["base_points"], 100 * m["score"] / 3)
 
 
 def test_update_changes_everything(result):

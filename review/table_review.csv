@@ -1,0 +1,1407 @@
+table,biochemical,food_or_nutrient,bias,weight,issue
+food,Blood Glucose,Strawberry,-1.0,0.1,bias and weight point in opposite directions
+food,Blood Glucose,Blueberry,-1.0,0.1,bias and weight point in opposite directions
+food,Blood Glucose,Raspberry,-1.0,0.1,bias and weight point in opposite directions
+food,Blood Glucose,Orange,-1.0,0.4,bias and weight point in opposite directions
+food,Blood Glucose,Apple,-1.0,0.4,bias and weight point in opposite directions
+food,Blood Glucose,Pear,-1.0,0.4,bias and weight point in opposite directions
+food,Blood Glucose,Lentils,1.0,-0.3,bias and weight point in opposite directions
+food,Blood Glucose,Chickpeas,1.0,-0.2,bias and weight point in opposite directions
+food,Blood Glucose,Kidney Beans,1.0,-0.3,bias and weight point in opposite directions
+food,Blood Glucose,Zucchini,-1.0,0.1,bias and weight point in opposite directions
+food,Blood Glucose,Pumpkin,-1.0,0.3,bias and weight point in opposite directions
+food,Blood Glucose,Tomatoes,-1.0,0.1,bias and weight point in opposite directions
+food,Blood Glucose,Bell Peppers,-1.0,0.1,bias and weight point in opposite directions
+food,Blood Glucose,Eggplants,-1.0,0.1,bias and weight point in opposite directions
+food,Blood Glucose,Onion,-1.0,0.1,bias and weight point in opposite directions
+food,Blood Glucose,Lamb,-1.0,0.1,bias and weight point in opposite directions
+food,Blood Glucose,Ham,-1.0,0.2,bias and weight point in opposite directions
+food,Blood Glucose,Salami,-1.0,0.2,bias and weight point in opposite directions
+food,Blood Glucose,Pepperoni,-1.0,0.2,bias and weight point in opposite directions
+food,Blood Glucose,Mozzarella,-1.0,0.1,bias and weight point in opposite directions
+food,Blood Glucose,Beef Jerky,-1.0,0.1,bias and weight point in opposite directions
+food,Blood Glucose,Burgers,-1.0,0.4,bias and weight point in opposite directions
+food,Blood Glucose,Chicken Nuggets,-1.0,0.5,bias and weight point in opposite directions
+food,Blood Glucose,Tacos,-1.0,0.4,bias and weight point in opposite directions
+food,Hemoglobin A1c,Orange,-1.0,0.1,bias and weight point in opposite directions
+food,Hemoglobin A1c,Apple,-1.0,0.2,bias and weight point in opposite directions
+food,Hemoglobin A1c,Pear,-1.0,0.1,bias and weight point in opposite directions
+food,Hemoglobin A1c,Lentils,1.0,-0.3,bias and weight point in opposite directions
+food,Hemoglobin A1c,Chickpeas,1.0,-0.2,bias and weight point in opposite directions
+food,Hemoglobin A1c,Kidney Beans,1.0,-0.3,bias and weight point in opposite directions
+food,Hemoglobin A1c,Pumpkin,-1.0,0.1,bias and weight point in opposite directions
+food,Hemoglobin A1c,Cashew,-1.0,0.1,bias and weight point in opposite directions
+food,Hemoglobin A1c,Oats,1.0,-0.2,bias and weight point in opposite directions
+food,Hemoglobin A1c,Millet,1.0,-0.2,bias and weight point in opposite directions
+food,Hemoglobin A1c,Lamb,-1.0,0.2,bias and weight point in opposite directions
+food,Hemoglobin A1c,Ham,-1.0,0.4,bias and weight point in opposite directions
+food,Hemoglobin A1c,Salami,-1.0,0.4,bias and weight point in opposite directions
+food,Hemoglobin A1c,Pepperoni,-1.0,0.4,bias and weight point in opposite directions
+food,Hemoglobin A1c,Mozzarella,-1.0,0.1,bias and weight point in opposite directions
+food,Hemoglobin A1c,Greek Yogurt,1.0,-0.2,bias and weight point in opposite directions
+food,Hemoglobin A1c,Oatmeal,1.0,-0.2,bias and weight point in opposite directions
+food,Hemoglobin A1c,Beef Jerky,-1.0,0.3,bias and weight point in opposite directions
+food,Hemoglobin A1c,Burgers,-1.0,0.6,bias and weight point in opposite directions
+food,Hemoglobin A1c,Chicken Nuggets,-1.0,0.6,bias and weight point in opposite directions
+food,Hemoglobin A1c,Tacos,-1.0,0.4,bias and weight point in opposite directions
+food,Glycated Albumin,Apple,-1.0,0.1,bias and weight point in opposite directions
+food,Glycated Albumin,Lentils,1.0,-0.2,bias and weight point in opposite directions
+food,Glycated Albumin,Chickpeas,1.0,-0.1,bias and weight point in opposite directions
+food,Glycated Albumin,Cashew,-1.0,0.2,bias and weight point in opposite directions
+food,Glycated Albumin,Pine Nut,-1.0,0.1,bias and weight point in opposite directions
+food,Glycated Albumin,Sunflower Seed,-1.0,0.1,bias and weight point in opposite directions
+food,Glycated Albumin,Oats,1.0,-0.2,bias and weight point in opposite directions
+food,Glycated Albumin,Lamb,-1.0,0.4,bias and weight point in opposite directions
+food,Glycated Albumin,Ham,-1.0,0.5,bias and weight point in opposite directions
+food,Glycated Albumin,Salami,-1.0,0.5,bias and weight point in opposite directions
+food,Glycated Albumin,Pepperoni,-1.0,0.6,bias and weight point in opposite directions
+food,Glycated Albumin,Mozzarella,-1.0,0.3,bias and weight point in opposite directions
+food,Glycated Albumin,Greek Yogurt,1.0,-0.2,bias and weight point in opposite directions
+food,Glycated Albumin,Oatmeal,1.0,-0.3,bias and weight point in opposite directions
+food,Glycated Albumin,Eggs,-1.0,0.1,bias and weight point in opposite directions
+food,Glycated Albumin,Beef Jerky,-1.0,0.4,bias and weight point in opposite directions
+food,Glycated Albumin,Burgers,-1.0,0.6,bias and weight point in opposite directions
+food,Glycated Albumin,Chicken Nuggets,-1.0,0.6,bias and weight point in opposite directions
+food,Glycated Albumin,Tacos,-1.0,0.5,bias and weight point in opposite directions
+food,Total Cholesterol,Banana,1.0,-0.1,bias and weight point in opposite directions
+food,Total Cholesterol,Mango,1.0,-0.1,bias and weight point in opposite directions
+food,Total Cholesterol,Pineapple,1.0,-0.2,bias and weight point in opposite directions
+food,Total Cholesterol,Cashew,1.0,-0.1,bias and weight point in opposite directions
+food,Total Cholesterol,Pistachio,1.0,-0.1,bias and weight point in opposite directions
+food,Total Cholesterol,Pine Nut,1.0,-0.1,bias and weight point in opposite directions
+food,Total Cholesterol,Shrimp,1.0,-0.3,bias and weight point in opposite directions
+food,Total Cholesterol,Crab,1.0,-0.3,bias and weight point in opposite directions
+food,Total Cholesterol,Lobster,1.0,-0.2,bias and weight point in opposite directions
+food,Total Cholesterol,Chicken,-1.0,0.1,bias and weight point in opposite directions
+food,Total Cholesterol,Lamb,-1.0,0.3,bias and weight point in opposite directions
+food,Total Cholesterol,Pork,-1.0,0.3,bias and weight point in opposite directions
+food,Total Cholesterol,Ham,-1.0,0.3,bias and weight point in opposite directions
+food,Total Cholesterol,Salami,-1.0,0.4,bias and weight point in opposite directions
+food,Total Cholesterol,Greek Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Total Cholesterol,Cereals,-1.0,0.2,bias and weight point in opposite directions
+food,Total Cholesterol,Eggs,-1.0,0.3,bias and weight point in opposite directions
+food,LDL Cholesterol,Banana,1.0,-0.1,bias and weight point in opposite directions
+food,LDL Cholesterol,Mango,1.0,-0.1,bias and weight point in opposite directions
+food,LDL Cholesterol,Pineapple,1.0,-0.1,bias and weight point in opposite directions
+food,LDL Cholesterol,Cashew,1.0,-0.2,bias and weight point in opposite directions
+food,LDL Cholesterol,Pistachio,1.0,-0.2,bias and weight point in opposite directions
+food,LDL Cholesterol,Pine Nut,1.0,-0.2,bias and weight point in opposite directions
+food,LDL Cholesterol,Shrimp,1.0,-0.2,bias and weight point in opposite directions
+food,LDL Cholesterol,Crab,1.0,-0.2,bias and weight point in opposite directions
+food,LDL Cholesterol,Lobster,1.0,-0.2,bias and weight point in opposite directions
+food,LDL Cholesterol,Lamb,-1.0,0.3,bias and weight point in opposite directions
+food,LDL Cholesterol,Pork,-1.0,0.3,bias and weight point in opposite directions
+food,LDL Cholesterol,Ham,-1.0,0.5,bias and weight point in opposite directions
+food,LDL Cholesterol,Salami,-1.0,0.5,bias and weight point in opposite directions
+food,LDL Cholesterol,Cereals,-1.0,0.5,bias and weight point in opposite directions
+food,HDL Cholesterol,Banana,-1.0,0.05,bias and weight point in opposite directions
+food,HDL Cholesterol,Mango,-1.0,0.1,bias and weight point in opposite directions
+food,HDL Cholesterol,Pineapple,-1.0,0.05,bias and weight point in opposite directions
+food,HDL Cholesterol,Wheat,-1.0,0.05,bias and weight point in opposite directions
+food,HDL Cholesterol,Rice,-1.0,0.05,bias and weight point in opposite directions
+food,HDL Cholesterol,Corn,-1.0,0.05,bias and weight point in opposite directions
+food,HDL Cholesterol,Millet,-1.0,0.1,bias and weight point in opposite directions
+food,HDL Cholesterol,Lamb,1.0,-0.1,bias and weight point in opposite directions
+food,HDL Cholesterol,Pork,1.0,-0.1,bias and weight point in opposite directions
+food,HDL Cholesterol,Ham,1.0,-0.1,bias and weight point in opposite directions
+food,HDL Cholesterol,Mozzarella,1.0,-0.1,bias and weight point in opposite directions
+food,HDL Cholesterol,Popcorn,-1.0,0.1,bias and weight point in opposite directions
+food,HDL Cholesterol,Beef Jerky,1.0,-0.2,bias and weight point in opposite directions
+food,HDL Cholesterol,Burgers,1.0,-0.2,bias and weight point in opposite directions
+food,HDL Cholesterol,Chicken Nuggets,1.0,-0.2,bias and weight point in opposite directions
+food,HDL Cholesterol,Tacos,1.0,-0.1,bias and weight point in opposite directions
+food,Triglycerides,Sweet Potatoes,1.0,-0.1,bias and weight point in opposite directions
+food,Triglycerides,Cashew,-1.0,0.1,bias and weight point in opposite directions
+food,Triglycerides,Pistachio,-1.0,0.1,bias and weight point in opposite directions
+food,Triglycerides,Pine Nut,-1.0,0.1,bias and weight point in opposite directions
+food,Triglycerides,Sunflower Seed,-1.0,0.1,bias and weight point in opposite directions
+food,Triglycerides,Barley,-1.0,0.1,bias and weight point in opposite directions
+food,Triglycerides,Tilapia,1.0,-0.3,bias and weight point in opposite directions
+food,Triglycerides,Chicken,-1.0,0.2,bias and weight point in opposite directions
+food,Triglycerides,Lamb,-1.0,0.3,bias and weight point in opposite directions
+food,Triglycerides,Pork,-1.0,0.3,bias and weight point in opposite directions
+food,Triglycerides,Ham,-1.0,0.3,bias and weight point in opposite directions
+food,Triglycerides,Salami,-1.0,0.4,bias and weight point in opposite directions
+food,Triglycerides,Eggs,-1.0,0.2,bias and weight point in opposite directions
+food,Triglycerides,Beef Jerky,-1.0,0.4,bias and weight point in opposite directions
+food,Triglycerides,Burgers,-1.0,0.5,bias and weight point in opposite directions
+food,Triglycerides,Chicken Nuggets,-1.0,0.5,bias and weight point in opposite directions
+food,Triglycerides,Tacos,-1.0,0.4,bias and weight point in opposite directions
+food,Apolipoprotein A1,Banana,-1.0,0.1,bias and weight point in opposite directions
+food,Apolipoprotein A1,Mango,-1.0,0.2,bias and weight point in opposite directions
+food,Apolipoprotein A1,Pineapple,-1.0,0.2,bias and weight point in opposite directions
+food,Apolipoprotein A1,Wheat,-1.0,0.1,bias and weight point in opposite directions
+food,Apolipoprotein A1,Rice,-1.0,0.1,bias and weight point in opposite directions
+food,Apolipoprotein A1,Corn,-1.0,0.1,bias and weight point in opposite directions
+food,Apolipoprotein A1,Millet,-1.0,0.1,bias and weight point in opposite directions
+food,Apolipoprotein A1,Beef,-1.0,0.2,bias and weight point in opposite directions
+food,Apolipoprotein A1,Bacon,-1.0,0.3,bias and weight point in opposite directions
+food,Apolipoprotein A1,Sausage,-1.0,0.3,bias and weight point in opposite directions
+food,Apolipoprotein A1,Salami,-1.0,0.3,bias and weight point in opposite directions
+food,Apolipoprotein A1,Pepperoni,-1.0,0.3,bias and weight point in opposite directions
+food,Apolipoprotein A1,Whole Milk,-1.0,0.2,bias and weight point in opposite directions
+food,Apolipoprotein A1,Cheddar,-1.0,0.3,bias and weight point in opposite directions
+food,Apolipoprotein A1,Butter,-1.0,0.4,bias and weight point in opposite directions
+food,Apolipoprotein A1,Ghee,-1.0,0.4,bias and weight point in opposite directions
+food,Apolipoprotein A1,Pastries,-1.0,0.5,bias and weight point in opposite directions
+food,Apolipoprotein A1,Cookies,-1.0,0.5,bias and weight point in opposite directions
+food,Apolipoprotein A1,Brownies,-1.0,0.5,bias and weight point in opposite directions
+food,Apolipoprotein A1,Muffins,-1.0,0.5,bias and weight point in opposite directions
+food,Apolipoprotein A1,Bread,-1.0,0.3,bias and weight point in opposite directions
+food,Apolipoprotein A1,Croissants,-1.0,0.5,bias and weight point in opposite directions
+food,Apolipoprotein A1,Ice Cream,-1.0,0.5,bias and weight point in opposite directions
+food,Apolipoprotein A1,Pies,-1.0,0.5,bias and weight point in opposite directions
+food,Apolipoprotein A1,Cakes,-1.0,0.5,bias and weight point in opposite directions
+food,Apolipoprotein A1,Donuts,-1.0,0.5,bias and weight point in opposite directions
+food,Apolipoprotein A1,Cereals,-1.0,0.3,bias and weight point in opposite directions
+food,Apolipoprotein A1,Pancakes,-1.0,0.4,bias and weight point in opposite directions
+food,Apolipoprotein A1,Waffles,-1.0,0.4,bias and weight point in opposite directions
+food,Apolipoprotein A1,Potato Chips,-1.0,0.5,bias and weight point in opposite directions
+food,Apolipoprotein A1,Popcorn,-1.0,0.2,bias and weight point in opposite directions
+food,Apolipoprotein A1,French Fries,-1.0,0.5,bias and weight point in opposite directions
+food,Apolipoprotein A1,Pizza,-1.0,0.5,bias and weight point in opposite directions
+food,Apolipoprotein B,Banana,1.0,-0.2,bias and weight point in opposite directions
+food,Apolipoprotein B,Mango,1.0,-0.1,bias and weight point in opposite directions
+food,Apolipoprotein B,Pineapple,1.0,-0.1,bias and weight point in opposite directions
+food,Apolipoprotein B,Wheat,1.0,-0.1,bias and weight point in opposite directions
+food,Apolipoprotein B,Rice,1.0,-0.1,bias and weight point in opposite directions
+food,Apolipoprotein B,Corn,1.0,-0.1,bias and weight point in opposite directions
+food,Apolipoprotein B,Millet,1.0,-0.1,bias and weight point in opposite directions
+food,Apolipoprotein B,Shrimp,1.0,-0.2,bias and weight point in opposite directions
+food,Apolipoprotein B,Crab,1.0,-0.2,bias and weight point in opposite directions
+food,Apolipoprotein B,Lobster,1.0,-0.2,bias and weight point in opposite directions
+food,Apolipoprotein B,Beef,1.0,-0.2,bias and weight point in opposite directions
+food,Apolipoprotein B,Bacon,1.0,-0.3,bias and weight point in opposite directions
+food,Apolipoprotein B,Sausage,1.0,-0.3,bias and weight point in opposite directions
+food,Apolipoprotein B,Pepperoni,1.0,-0.3,bias and weight point in opposite directions
+food,Apolipoprotein B,Whole Milk,1.0,-0.2,bias and weight point in opposite directions
+food,Apolipoprotein B,Cheddar,1.0,-0.2,bias and weight point in opposite directions
+food,Apolipoprotein B,Mozzarella,1.0,-0.2,bias and weight point in opposite directions
+food,Apolipoprotein B,Butter,1.0,-0.3,bias and weight point in opposite directions
+food,Apolipoprotein B,Ghee,1.0,-0.3,bias and weight point in opposite directions
+food,Apolipoprotein B,Beef Jerky,1.0,-0.4,bias and weight point in opposite directions
+food,Apolipoprotein B,Burgers,1.0,-0.4,bias and weight point in opposite directions
+food,Apolipoprotein B,French Fries,1.0,-0.4,bias and weight point in opposite directions
+food,Apolipoprotein B,Pizza,1.0,-0.4,bias and weight point in opposite directions
+food,Apolipoprotein B,Chicken Nuggets,1.0,-0.4,bias and weight point in opposite directions
+food,Apolipoprotein B,Tacos,1.0,-0.2,bias and weight point in opposite directions
+food,Vitamin K,Pork,-1.0,0.05,bias and weight point in opposite directions
+food,Vitamin K,Bacon,-1.0,0.05,bias and weight point in opposite directions
+food,Vitamin K,Sausage,-1.0,0.05,bias and weight point in opposite directions
+food,Vitamin K,Ham,-1.0,0.05,bias and weight point in opposite directions
+food,Vitamin K,Salami,-1.0,0.05,bias and weight point in opposite directions
+food,Vitamin K,Pepperoni,-1.0,0.05,bias and weight point in opposite directions
+food,Vitamin K,Whole Milk,-1.0,0.05,bias and weight point in opposite directions
+food,Vitamin K,Almond Milk,-1.0,0.05,bias and weight point in opposite directions
+food,Vitamin K,Soy Milk,-1.0,0.05,bias and weight point in opposite directions
+food,Vitamin K,Greek Yogurt,-1.0,0.05,bias and weight point in opposite directions
+food,Vitamin K,Yogurt,-1.0,0.05,bias and weight point in opposite directions
+food,Vitamin K,Butter,-1.0,0.05,bias and weight point in opposite directions
+food,Vitamin K,Ghee,-1.0,0.05,bias and weight point in opposite directions
+food,Vitamin K,Coca Cola,-1.0,0.05,bias and weight point in opposite directions
+food,Vitamin K,Pepsi,-1.0,0.05,bias and weight point in opposite directions
+food,Vitamin K,Coffee,-1.0,0.05,bias and weight point in opposite directions
+food,Vitamin K,Tea,-1.0,0.05,bias and weight point in opposite directions
+food,Vitamin K,Beer,-1.0,0.05,bias and weight point in opposite directions
+food,Vitamin B6 (Pyridoxine),Bacon,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B6 (Pyridoxine),Sausage,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B6 (Pyridoxine),Ham,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B6 (Pyridoxine),Salami,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B6 (Pyridoxine),Pepperoni,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B6 (Pyridoxine),Whole Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B6 (Pyridoxine),Almond Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B6 (Pyridoxine),Soy Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B6 (Pyridoxine),Cheddar,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B6 (Pyridoxine),Mozzarella,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B6 (Pyridoxine),Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B6 (Pyridoxine),Butter,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B6 (Pyridoxine),Ghee,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B6 (Pyridoxine),Coffee,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B6 (Pyridoxine),Tea,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B6 (Pyridoxine),Beef Jerky,1.0,-0.1,bias and weight point in opposite directions
+food,Vitamin B6 (Pyridoxine),Burgers,1.0,-0.1,bias and weight point in opposite directions
+food,Vitamin B6 (Pyridoxine),Chicken Nuggets,1.0,-0.1,bias and weight point in opposite directions
+food,Vitamin B6 (Pyridoxine),Tacos,1.0,-0.1,bias and weight point in opposite directions
+food,Vitamin B1 (Thiamine),Chicken,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B1 (Thiamine),Beef,-1.0,0.2,bias and weight point in opposite directions
+food,Vitamin B1 (Thiamine),Lamb,-1.0,0.2,bias and weight point in opposite directions
+food,Vitamin B1 (Thiamine),Bacon,-1.0,0.2,bias and weight point in opposite directions
+food,Vitamin B1 (Thiamine),Sausage,-1.0,0.2,bias and weight point in opposite directions
+food,Vitamin B1 (Thiamine),Ham,-1.0,0.2,bias and weight point in opposite directions
+food,Vitamin B1 (Thiamine),Salami,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B1 (Thiamine),Pepperoni,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B1 (Thiamine),Cheddar,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B1 (Thiamine),Mozzarella,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B1 (Thiamine),Greek Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B1 (Thiamine),Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B1 (Thiamine),Bread,1.0,-0.1,bias and weight point in opposite directions
+food,Vitamin B1 (Thiamine),Cereals,1.0,-0.1,bias and weight point in opposite directions
+food,Vitamin B2 (Riboflavin),Pork,-1.0,0.2,bias and weight point in opposite directions
+food,Vitamin B2 (Riboflavin),Bacon,-1.0,0.2,bias and weight point in opposite directions
+food,Vitamin B2 (Riboflavin),Sausage,-1.0,0.2,bias and weight point in opposite directions
+food,Vitamin B2 (Riboflavin),Ham,-1.0,0.2,bias and weight point in opposite directions
+food,Vitamin B2 (Riboflavin),Salami,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B2 (Riboflavin),Pepperoni,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B2 (Riboflavin),Whole Milk,-1.0,0.3,bias and weight point in opposite directions
+food,Vitamin B2 (Riboflavin),Yogurt,-1.0,0.2,bias and weight point in opposite directions
+food,Vitamin B2 (Riboflavin),Cereals,1.0,-0.1,bias and weight point in opposite directions
+food,Vitamin B2 (Riboflavin),Chicken Nuggets,1.0,-0.2,bias and weight point in opposite directions
+food,Vitamin B3 (Niacin),Lamb,-1.0,0.3,bias and weight point in opposite directions
+food,Vitamin B3 (Niacin),Sausage,-1.0,0.3,bias and weight point in opposite directions
+food,Vitamin B3 (Niacin),Ham,-1.0,0.3,bias and weight point in opposite directions
+food,Vitamin B3 (Niacin),Salami,-1.0,0.3,bias and weight point in opposite directions
+food,Vitamin B3 (Niacin),Pepperoni,-1.0,0.3,bias and weight point in opposite directions
+food,Vitamin B3 (Niacin),Whole Milk,-1.0,0.2,bias and weight point in opposite directions
+food,Vitamin B3 (Niacin),Almond Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B3 (Niacin),Soy Milk,-1.0,0.2,bias and weight point in opposite directions
+food,Vitamin B3 (Niacin),Cheddar,-1.0,0.2,bias and weight point in opposite directions
+food,Vitamin B3 (Niacin),Mozzarella,-1.0,0.2,bias and weight point in opposite directions
+food,Vitamin B3 (Niacin),Greek Yogurt,-1.0,0.2,bias and weight point in opposite directions
+food,Vitamin B3 (Niacin),Yogurt,-1.0,0.2,bias and weight point in opposite directions
+food,Vitamin B3 (Niacin),Butter,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B3 (Niacin),Ghee,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B5 (Pantothenic Acid),Lamb,-1.0,0.3,bias and weight point in opposite directions
+food,Vitamin B5 (Pantothenic Acid),Bacon,-1.0,0.3,bias and weight point in opposite directions
+food,Vitamin B5 (Pantothenic Acid),Sausage,-1.0,0.3,bias and weight point in opposite directions
+food,Vitamin B5 (Pantothenic Acid),Ham,-1.0,0.3,bias and weight point in opposite directions
+food,Vitamin B5 (Pantothenic Acid),Salami,-1.0,0.3,bias and weight point in opposite directions
+food,Vitamin B5 (Pantothenic Acid),Pepperoni,-1.0,0.3,bias and weight point in opposite directions
+food,Vitamin B5 (Pantothenic Acid),Whole Milk,-1.0,0.2,bias and weight point in opposite directions
+food,Vitamin B5 (Pantothenic Acid),Almond Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B5 (Pantothenic Acid),Soy Milk,-1.0,0.2,bias and weight point in opposite directions
+food,Vitamin B5 (Pantothenic Acid),Cheddar,-1.0,0.2,bias and weight point in opposite directions
+food,Vitamin B5 (Pantothenic Acid),Mozzarella,-1.0,0.2,bias and weight point in opposite directions
+food,Vitamin B5 (Pantothenic Acid),Yogurt,-1.0,0.2,bias and weight point in opposite directions
+food,Vitamin B5 (Pantothenic Acid),Butter,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B5 (Pantothenic Acid),Ghee,-1.0,0.1,bias and weight point in opposite directions
+food,Vitamin B7 (Biotin),Cereals,1.0,-0.1,bias and weight point in opposite directions
+food,Vitamin B9 (Folate),Bread,1.0,-0.1,bias and weight point in opposite directions
+food,Vitamin B9 (Folate),Cereals,1.0,-0.1,bias and weight point in opposite directions
+food,Vitamin B12 (Cobalamin),Bacon,-1.0,1.0,bias and weight point in opposite directions
+food,Vitamin B12 (Cobalamin),Sausage,-1.0,0.5,bias and weight point in opposite directions
+food,Vitamin B12 (Cobalamin),Ham,-1.0,0.5,bias and weight point in opposite directions
+food,Vitamin B12 (Cobalamin),Salami,-1.0,0.5,bias and weight point in opposite directions
+food,Vitamin B12 (Cobalamin),Pepperoni,-1.0,0.5,bias and weight point in opposite directions
+food,Vitamin B12 (Cobalamin),Yogurt,-1.0,0.5,bias and weight point in opposite directions
+food,Vitamin B12 (Cobalamin),Butter,-1.0,0.5,bias and weight point in opposite directions
+food,Vitamin B12 (Cobalamin),Ghee,-1.0,0.5,bias and weight point in opposite directions
+food,Vitamin A,Pork,-1.0,0.3,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Spinach,1.0,-0.2,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Kale,1.0,-0.2,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Broccoli,1.0,-0.1,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Cauliflower,1.0,-0.1,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Sweet Potatoes,1.0,-0.1,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Beets,1.0,-0.1,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Almond,1.0,-0.1,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Cashew,1.0,-0.1,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Hazelnut,1.0,-0.1,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Pistachio,1.0,-0.1,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Walnut,1.0,-0.1,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Pine Nut,1.0,-0.1,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Sunflower Seed,1.0,-0.1,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Salmon,-1.0,0.7,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Mackerel,-1.0,0.7,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Sardines,-1.0,0.7,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Cod,-1.0,0.5,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Haddock,-1.0,0.5,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Tilapia,-1.0,0.5,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Halibut,-1.0,0.5,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Pollock,-1.0,0.5,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Oysters,-1.0,0.6,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Mussels,-1.0,0.6,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Chicken,-1.0,0.8,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Mozzarella,-1.0,0.4,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Yogurt,-1.0,0.3,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Butter,-1.0,0.2,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Ghee,-1.0,0.3,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Oatmeal,-1.0,0.4,bias and weight point in opposite directions
+food,Blood Urea Nitrogen,Guacamole,-1.0,0.1,bias and weight point in opposite directions
+food,Cystatin C,Spinach,1.0,-0.2,bias and weight point in opposite directions
+food,Cystatin C,Kale,1.0,-0.2,bias and weight point in opposite directions
+food,Cystatin C,Broccoli,1.0,-0.2,bias and weight point in opposite directions
+food,Cystatin C,Cauliflower,1.0,-0.2,bias and weight point in opposite directions
+food,Cystatin C,Lentils,1.0,-0.1,bias and weight point in opposite directions
+food,Cystatin C,Chickpeas,1.0,-0.1,bias and weight point in opposite directions
+food,Cystatin C,Kidney Beans,1.0,-0.1,bias and weight point in opposite directions
+food,Cystatin C,Beets,1.0,-0.1,bias and weight point in opposite directions
+food,Cystatin C,Pistachio,1.0,-0.1,bias and weight point in opposite directions
+food,Cystatin C,Walnut,1.0,-0.1,bias and weight point in opposite directions
+food,Cystatin C,Salmon,-1.0,0.1,bias and weight point in opposite directions
+food,Cystatin C,Mackerel,-1.0,0.1,bias and weight point in opposite directions
+food,Cystatin C,Sardines,-1.0,0.1,bias and weight point in opposite directions
+food,Cystatin C,Cod,-1.0,0.1,bias and weight point in opposite directions
+food,Cystatin C,Haddock,-1.0,0.1,bias and weight point in opposite directions
+food,Cystatin C,Tilapia,-1.0,0.1,bias and weight point in opposite directions
+food,Cystatin C,Halibut,-1.0,0.1,bias and weight point in opposite directions
+food,Cystatin C,Pollock,-1.0,0.1,bias and weight point in opposite directions
+food,Cystatin C,Oysters,-1.0,0.1,bias and weight point in opposite directions
+food,Cystatin C,Mussels,-1.0,0.1,bias and weight point in opposite directions
+food,Cystatin C,Chicken,-1.0,0.2,bias and weight point in opposite directions
+food,Cystatin C,Mozzarella,-1.0,0.1,bias and weight point in opposite directions
+food,Cystatin C,Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Cystatin C,Oatmeal,-1.0,0.1,bias and weight point in opposite directions
+food,Cystatin C,Eggs,-1.0,0.1,bias and weight point in opposite directions
+food,Sodium,Celery,-1.0,0.1,bias and weight point in opposite directions
+food,Sodium,Asparagus,-1.0,0.1,bias and weight point in opposite directions
+food,Sodium,Salmon,-1.0,0.2,bias and weight point in opposite directions
+food,Sodium,Mackerel,-1.0,0.2,bias and weight point in opposite directions
+food,Sodium,Sardines,-1.0,0.2,bias and weight point in opposite directions
+food,Sodium,Tuna,-1.0,0.2,bias and weight point in opposite directions
+food,Sodium,Cod,-1.0,0.2,bias and weight point in opposite directions
+food,Sodium,Haddock,-1.0,0.2,bias and weight point in opposite directions
+food,Sodium,Tilapia,-1.0,0.2,bias and weight point in opposite directions
+food,Sodium,Halibut,-1.0,0.2,bias and weight point in opposite directions
+food,Sodium,Pollock,-1.0,0.2,bias and weight point in opposite directions
+food,Sodium,Oysters,-1.0,0.3,bias and weight point in opposite directions
+food,Sodium,Mussels,-1.0,0.3,bias and weight point in opposite directions
+food,Sodium,Chicken,-1.0,0.2,bias and weight point in opposite directions
+food,Sodium,Beef,-1.0,0.2,bias and weight point in opposite directions
+food,Sodium,Lamb,-1.0,0.2,bias and weight point in opposite directions
+food,Sodium,Pork,-1.0,0.2,bias and weight point in opposite directions
+food,Sodium,Whole Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Sodium,Greek Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Sodium,Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Sodium,Eggs,-1.0,0.2,bias and weight point in opposite directions
+food,Sodium,Salsa,-1.0,0.1,bias and weight point in opposite directions
+food,Potassium,Lettuce,-1.0,0.1,bias and weight point in opposite directions
+food,Potassium,Radishes,-1.0,0.1,bias and weight point in opposite directions
+food,Potassium,Bell Peppers,-1.0,0.2,bias and weight point in opposite directions
+food,Potassium,Celery,-1.0,0.1,bias and weight point in opposite directions
+food,Potassium,Chia Seed,-1.0,0.3,bias and weight point in opposite directions
+food,Potassium,Flax Seed,-1.0,0.2,bias and weight point in opposite directions
+food,Potassium,Bacon,-1.0,0.1,bias and weight point in opposite directions
+food,Potassium,Sausage,-1.0,0.2,bias and weight point in opposite directions
+food,Potassium,Ham,-1.0,0.2,bias and weight point in opposite directions
+food,Potassium,Salami,-1.0,0.2,bias and weight point in opposite directions
+food,Potassium,Pepperoni,-1.0,0.2,bias and weight point in opposite directions
+food,Potassium,Cheddar,-1.0,0.2,bias and weight point in opposite directions
+food,Potassium,Mozzarella,-1.0,0.2,bias and weight point in opposite directions
+food,Potassium,Butter,-1.0,0.1,bias and weight point in opposite directions
+food,Potassium,Ghee,-1.0,0.1,bias and weight point in opposite directions
+food,Calcium,Lettuce,-1.0,0.1,bias and weight point in opposite directions
+food,Calcium,Cabbage,-1.0,0.1,bias and weight point in opposite directions
+food,Calcium,Pumpkin,-1.0,0.1,bias and weight point in opposite directions
+food,Calcium,Chia Seed,-1.0,0.5,bias and weight point in opposite directions
+food,Calcium,Almond Milk,-1.0,0.2,bias and weight point in opposite directions
+food,Calcium,Soy Milk,-1.0,0.2,bias and weight point in opposite directions
+food,Calcium,Ice Cream,1.0,-0.2,bias and weight point in opposite directions
+food,Calcium,Cereals,1.0,-0.1,bias and weight point in opposite directions
+food,Calcium,Pizza,1.0,-0.1,bias and weight point in opposite directions
+food,Magnesium,Lettuce,-1.0,0.1,bias and weight point in opposite directions
+food,Magnesium,Pumpkin,-1.0,0.1,bias and weight point in opposite directions
+food,Magnesium,Pork,-1.0,0.1,bias and weight point in opposite directions
+food,Magnesium,Whole Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Magnesium,Cheddar,-1.0,0.2,bias and weight point in opposite directions
+food,Magnesium,Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Magnesium,Bread,1.0,-0.1,bias and weight point in opposite directions
+food,Magnesium,Cereals,1.0,-0.1,bias and weight point in opposite directions
+food,Magnesium,Popcorn,1.0,-0.2,bias and weight point in opposite directions
+food,Phosphate,Lettuce,-1.0,0.2,bias and weight point in opposite directions
+food,Phosphate,Pumpkin,-1.0,0.3,bias and weight point in opposite directions
+food,Phosphate,Chia Seed,-1.0,0.6,bias and weight point in opposite directions
+food,Phosphate,Flax Seed,-1.0,0.5,bias and weight point in opposite directions
+food,Phosphate,Chicken,-1.0,0.3,bias and weight point in opposite directions
+food,Phosphate,Mozzarella,-1.0,0.2,bias and weight point in opposite directions
+food,Phosphate,Yogurt,-1.0,0.2,bias and weight point in opposite directions
+food,Phosphate,Oatmeal,-1.0,0.3,bias and weight point in opposite directions
+food,Phosphate,Eggs,-1.0,0.4,bias and weight point in opposite directions
+food,Phosphate,Guacamole,-1.0,0.2,bias and weight point in opposite directions
+food,Chloride,Lettuce,-1.0,0.3,bias and weight point in opposite directions
+food,Chloride,Pumpkin,-1.0,0.1,bias and weight point in opposite directions
+food,Chloride,Bell Peppers,-1.0,0.2,bias and weight point in opposite directions
+food,Chloride,Chicken,-1.0,0.2,bias and weight point in opposite directions
+food,Chloride,Beef,-1.0,0.2,bias and weight point in opposite directions
+food,Chloride,Lamb,-1.0,0.2,bias and weight point in opposite directions
+food,Chloride,Pork,-1.0,0.2,bias and weight point in opposite directions
+food,Chloride,Whole Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Chloride,Greek Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Chloride,Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Chloride,Oatmeal,-1.0,0.2,bias and weight point in opposite directions
+food,Chloride,Eggs,-1.0,0.2,bias and weight point in opposite directions
+food,Bicarbonate,Coffee,1.0,-0.5,bias and weight point in opposite directions
+food,Iron,Chia Seed,-1.0,0.5,bias and weight point in opposite directions
+food,Iron,Flax Seed,-1.0,0.5,bias and weight point in opposite directions
+food,Iron,Bacon,-1.0,0.5,bias and weight point in opposite directions
+food,Iron,Sausage,-1.0,0.5,bias and weight point in opposite directions
+food,Iron,Ham,-1.0,0.5,bias and weight point in opposite directions
+food,Iron,Salami,-1.0,0.5,bias and weight point in opposite directions
+food,Iron,Pepperoni,-1.0,0.5,bias and weight point in opposite directions
+food,Globulin,Mango,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Plum,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Lettuce,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Cabbage,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Bell Peppers,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Almond,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Cashew,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Pistachio,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Walnut,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Almond Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Soy Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Mozzarella,-1.0,0.2,bias and weight point in opposite directions
+food,Globulin,Yogurt,-1.0,0.2,bias and weight point in opposite directions
+food,Globulin,Butter,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Ghee,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Pastries,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Cookies,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Brownies,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Muffins,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Croissants,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Ice Cream,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Pies,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Cakes,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Donuts,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Cereals,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Pancakes,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Waffles,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Potato Chips,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,French Fries,-1.0,0.1,bias and weight point in opposite directions
+food,Globulin,Pizza,-1.0,0.3,bias and weight point in opposite directions
+food,Albumin,Pineapple,-1.0,0.1,bias and weight point in opposite directions
+food,Albumin,Lettuce,-1.0,0.1,bias and weight point in opposite directions
+food,Albumin,Cabbage,-1.0,0.1,bias and weight point in opposite directions
+food,Albumin,Bell Peppers,-1.0,0.1,bias and weight point in opposite directions
+food,Albumin,Almond,-1.0,0.1,bias and weight point in opposite directions
+food,Albumin,Cashew,-1.0,0.1,bias and weight point in opposite directions
+food,Albumin,Pistachio,-1.0,0.1,bias and weight point in opposite directions
+food,Albumin,Walnut,-1.0,0.1,bias and weight point in opposite directions
+food,Albumin,Bacon,-1.0,0.3,bias and weight point in opposite directions
+food,Albumin,Sausage,-1.0,0.3,bias and weight point in opposite directions
+food,Albumin,Salami,-1.0,0.3,bias and weight point in opposite directions
+food,Albumin,Pepperoni,-1.0,0.3,bias and weight point in opposite directions
+food,Albumin,Cheddar,-1.0,0.2,bias and weight point in opposite directions
+food,Albumin,Yogurt,-1.0,0.2,bias and weight point in opposite directions
+food,Albumin,Pizza,-1.0,0.3,bias and weight point in opposite directions
+food,Total Protein,Banana,-1.0,0.1,bias and weight point in opposite directions
+food,Total Protein,Plum,-1.0,0.1,bias and weight point in opposite directions
+food,Total Protein,Watermelon,-1.0,0.1,bias and weight point in opposite directions
+food,Total Protein,Muskmelon,-1.0,0.1,bias and weight point in opposite directions
+food,Total Protein,Lettuce,-1.0,0.2,bias and weight point in opposite directions
+food,Total Protein,Cabbage,-1.0,0.4,bias and weight point in opposite directions
+food,Total Protein,Zucchini,-1.0,0.2,bias and weight point in opposite directions
+food,Total Protein,Pumpkin,-1.0,0.3,bias and weight point in opposite directions
+food,Total Protein,Cucumber,-1.0,0.2,bias and weight point in opposite directions
+food,Total Protein,Bell Peppers,-1.0,0.3,bias and weight point in opposite directions
+food,Total Protein,Celery,-1.0,0.1,bias and weight point in opposite directions
+food,Total Protein,Rice,-1.0,0.2,bias and weight point in opposite directions
+food,Total Protein,Corn,-1.0,0.3,bias and weight point in opposite directions
+food,Total Protein,Barley,-1.0,0.4,bias and weight point in opposite directions
+food,Total Protein,Oats,-1.0,0.4,bias and weight point in opposite directions
+food,Total Protein,Millet,-1.0,0.3,bias and weight point in opposite directions
+food,Total Protein,Almond Milk,-1.0,0.2,bias and weight point in opposite directions
+food,Total Protein,Soy Milk,-1.0,0.4,bias and weight point in opposite directions
+food,Total Protein,Yogurt,-1.0,0.7,bias and weight point in opposite directions
+food,Total Protein,Butter,-1.0,0.2,bias and weight point in opposite directions
+food,Total Protein,Ghee,-1.0,0.2,bias and weight point in opposite directions
+food,Total Protein,Pizza,-1.0,0.5,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Banana,-1.0,0.1,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Mango,-1.0,0.1,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Pineapple,-1.0,0.1,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Plum,-1.0,0.1,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Lettuce,-1.0,0.3,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Cabbage,-1.0,0.4,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Zucchini,-1.0,0.2,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Pumpkin,-1.0,0.3,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Cucumber,-1.0,0.2,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Bell Peppers,-1.0,0.3,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Celery,-1.0,0.2,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Almond,-1.0,0.6,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Cashew,-1.0,0.5,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Chestnut,-1.0,0.2,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Hazelnut,-1.0,0.5,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Pistachio,-1.0,0.6,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Walnut,-1.0,0.5,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Beef,-1.0,0.9,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Lamb,-1.0,0.9,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Pork,-1.0,0.9,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Bacon,-1.0,0.6,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Sausage,-1.0,0.6,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Salami,-1.0,0.5,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Pepperoni,-1.0,0.5,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Almond Milk,-1.0,0.2,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Soy Milk,-1.0,0.3,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Cheddar,-1.0,0.7,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Yogurt,-1.0,0.6,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Butter,-1.0,0.2,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Ghee,-1.0,0.2,bias and weight point in opposite directions
+food,Albumin/Globulin Ratio,Pizza,-1.0,0.5,bias and weight point in opposite directions
+food,C-Reactive Protein,Blueberry,1.0,-0.6,bias and weight point in opposite directions
+food,C-Reactive Protein,Pineapple,1.0,-0.3,bias and weight point in opposite directions
+food,C-Reactive Protein,Guava,1.0,-0.5,bias and weight point in opposite directions
+food,C-Reactive Protein,Spinach,1.0,-0.7,bias and weight point in opposite directions
+food,C-Reactive Protein,Kale,1.0,-0.8,bias and weight point in opposite directions
+food,C-Reactive Protein,Beets,1.0,-0.5,bias and weight point in opposite directions
+food,C-Reactive Protein,Radishes,1.0,-0.4,bias and weight point in opposite directions
+food,C-Reactive Protein,Tomatoes,1.0,-0.4,bias and weight point in opposite directions
+food,C-Reactive Protein,Bell Peppers,1.0,-0.5,bias and weight point in opposite directions
+food,C-Reactive Protein,Barley,1.0,-0.3,bias and weight point in opposite directions
+food,C-Reactive Protein,Ham,-1.0,0.5,bias and weight point in opposite directions
+food,C-Reactive Protein,Mozzarella,-1.0,0.3,bias and weight point in opposite directions
+food,C-Reactive Protein,Greek Yogurt,1.0,-0.5,bias and weight point in opposite directions
+food,C-Reactive Protein,Butter,-1.0,0.5,bias and weight point in opposite directions
+food,C-Reactive Protein,Ghee,-1.0,0.6,bias and weight point in opposite directions
+food,C-Reactive Protein,Eggs,-1.0,0.2,bias and weight point in opposite directions
+food,Haptoglobin,Guava,1.0,-0.3,bias and weight point in opposite directions
+food,Haptoglobin,Kiwi,1.0,-0.3,bias and weight point in opposite directions
+food,Haptoglobin,Peach,1.0,-0.2,bias and weight point in opposite directions
+food,Haptoglobin,Cherry,1.0,-0.3,bias and weight point in opposite directions
+food,Haptoglobin,Spinach,1.0,-0.6,bias and weight point in opposite directions
+food,Haptoglobin,Kale,1.0,-0.7,bias and weight point in opposite directions
+food,Haptoglobin,Broccoli,1.0,-0.6,bias and weight point in opposite directions
+food,Haptoglobin,Cauliflower,1.0,-0.5,bias and weight point in opposite directions
+food,Haptoglobin,Green Peas,1.0,-0.4,bias and weight point in opposite directions
+food,Haptoglobin,Lentils,1.0,-0.5,bias and weight point in opposite directions
+food,Haptoglobin,Chickpeas,1.0,-0.5,bias and weight point in opposite directions
+food,Haptoglobin,Kidney Beans,1.0,-0.5,bias and weight point in opposite directions
+food,Haptoglobin,Barley,1.0,-0.2,bias and weight point in opposite directions
+food,Haptoglobin,Salmon,1.0,-0.6,bias and weight point in opposite directions
+food,Haptoglobin,Mackerel,1.0,-0.5,bias and weight point in opposite directions
+food,Haptoglobin,Sardines,1.0,-0.6,bias and weight point in opposite directions
+food,Haptoglobin,Tuna,1.0,-0.5,bias and weight point in opposite directions
+food,Haptoglobin,Cod,1.0,-0.4,bias and weight point in opposite directions
+food,Haptoglobin,Haddock,1.0,-0.4,bias and weight point in opposite directions
+food,Haptoglobin,Tilapia,1.0,-0.3,bias and weight point in opposite directions
+food,Haptoglobin,Halibut,1.0,-0.4,bias and weight point in opposite directions
+food,Haptoglobin,Pollock,1.0,-0.4,bias and weight point in opposite directions
+food,Haptoglobin,Shrimp,1.0,-0.3,bias and weight point in opposite directions
+food,Haptoglobin,Crab,1.0,-0.3,bias and weight point in opposite directions
+food,Haptoglobin,Oysters,1.0,-0.4,bias and weight point in opposite directions
+food,Haptoglobin,Lobster,1.0,-0.3,bias and weight point in opposite directions
+food,Haptoglobin,Mussels,1.0,-0.4,bias and weight point in opposite directions
+food,Haptoglobin,Ham,-1.0,0.4,bias and weight point in opposite directions
+food,Haptoglobin,Mozzarella,-1.0,0.2,bias and weight point in opposite directions
+food,Haptoglobin,Greek Yogurt,1.0,-0.4,bias and weight point in opposite directions
+food,Haptoglobin,Butter,-1.0,0.4,bias and weight point in opposite directions
+food,Haptoglobin,Ghee,-1.0,0.5,bias and weight point in opposite directions
+food,Haptoglobin,Eggs,-1.0,0.1,bias and weight point in opposite directions
+food,Transferrin,Plum,-1.0,0.1,bias and weight point in opposite directions
+food,Transferrin,Bell Peppers,-1.0,0.1,bias and weight point in opposite directions
+food,Transferrin,Almond,-1.0,0.1,bias and weight point in opposite directions
+food,Transferrin,Cashew,-1.0,0.1,bias and weight point in opposite directions
+food,Transferrin,Hazelnut,-1.0,0.1,bias and weight point in opposite directions
+food,Transferrin,Walnut,-1.0,0.1,bias and weight point in opposite directions
+food,Transferrin,Pine Nut,-1.0,0.1,bias and weight point in opposite directions
+food,Transferrin,Bacon,-1.0,0.1,bias and weight point in opposite directions
+food,Transferrin,Sausage,-1.0,0.1,bias and weight point in opposite directions
+food,Transferrin,Salami,-1.0,0.1,bias and weight point in opposite directions
+food,Transferrin,Pepperoni,-1.0,0.1,bias and weight point in opposite directions
+food,Transferrin,Mozzarella,-1.0,0.1,bias and weight point in opposite directions
+food,Transferrin,Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Transferrin,Butter,-1.0,0.1,bias and weight point in opposite directions
+food,Transferrin,Ghee,-1.0,0.1,bias and weight point in opposite directions
+food,Transferrin,Burgers,1.0,-0.2,bias and weight point in opposite directions
+food,Transferrin,Chicken Nuggets,1.0,-0.2,bias and weight point in opposite directions
+food,Transferrin,Tacos,1.0,-0.2,bias and weight point in opposite directions
+food,C-Peptide,Banana,-1.0,0.1,bias and weight point in opposite directions
+food,C-Peptide,Pineapple,-1.0,0.1,bias and weight point in opposite directions
+food,C-Peptide,Plum,-1.0,0.1,bias and weight point in opposite directions
+food,C-Peptide,Watermelon,-1.0,0.1,bias and weight point in opposite directions
+food,C-Peptide,Lettuce,-1.0,0.1,bias and weight point in opposite directions
+food,C-Peptide,Zucchini,-1.0,0.1,bias and weight point in opposite directions
+food,C-Peptide,Cucumber,-1.0,0.1,bias and weight point in opposite directions
+food,C-Peptide,Bell Peppers,-1.0,0.1,bias and weight point in opposite directions
+food,C-Peptide,Almond,-1.0,0.1,bias and weight point in opposite directions
+food,C-Peptide,Cashew,-1.0,0.1,bias and weight point in opposite directions
+food,C-Peptide,Chestnut,-1.0,0.1,bias and weight point in opposite directions
+food,C-Peptide,Hazelnut,-1.0,0.1,bias and weight point in opposite directions
+food,C-Peptide,Walnut,-1.0,0.1,bias and weight point in opposite directions
+food,C-Peptide,Pine Nut,-1.0,0.1,bias and weight point in opposite directions
+food,C-Peptide,Chicken,-1.0,0.1,bias and weight point in opposite directions
+food,C-Peptide,Ham,-1.0,0.1,bias and weight point in opposite directions
+food,C-Peptide,Mozzarella,-1.0,0.1,bias and weight point in opposite directions
+food,C-Peptide,Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,C-Peptide,Butter,-1.0,0.1,bias and weight point in opposite directions
+food,C-Peptide,Ghee,-1.0,0.1,bias and weight point in opposite directions
+food,C-Peptide,Pastries,1.0,-0.2,bias and weight point in opposite directions
+food,C-Peptide,Cookies,1.0,-0.2,bias and weight point in opposite directions
+food,C-Peptide,Brownies,1.0,-0.2,bias and weight point in opposite directions
+food,C-Peptide,Muffins,1.0,-0.2,bias and weight point in opposite directions
+food,C-Peptide,Croissants,1.0,-0.2,bias and weight point in opposite directions
+food,C-Peptide,Ice Cream,1.0,-0.2,bias and weight point in opposite directions
+food,C-Peptide,Pies,1.0,-0.2,bias and weight point in opposite directions
+food,C-Peptide,Cakes,1.0,-0.2,bias and weight point in opposite directions
+food,C-Peptide,Donuts,1.0,-0.2,bias and weight point in opposite directions
+food,C-Peptide,Pancakes,1.0,-0.2,bias and weight point in opposite directions
+food,C-Peptide,Waffles,1.0,-0.2,bias and weight point in opposite directions
+food,C-Peptide,Eggs,-1.0,0.1,bias and weight point in opposite directions
+food,C-Peptide,Coca Cola,1.0,-0.3,bias and weight point in opposite directions
+food,C-Peptide,Pepsi,1.0,-0.3,bias and weight point in opposite directions
+food,C-Peptide,Beer,1.0,-0.2,bias and weight point in opposite directions
+food,C-Peptide,Potato Chips,1.0,-0.3,bias and weight point in opposite directions
+food,C-Peptide,Burgers,1.0,-0.2,bias and weight point in opposite directions
+food,C-Peptide,French Fries,1.0,-0.3,bias and weight point in opposite directions
+food,C-Peptide,Pizza,1.0,-0.2,bias and weight point in opposite directions
+food,C-Peptide,Chicken Nuggets,1.0,-0.2,bias and weight point in opposite directions
+food,C-Peptide,Tacos,1.0,-0.2,bias and weight point in opposite directions
+food,Testosterone,Strawberry,-1.0,0.1,bias and weight point in opposite directions
+food,Testosterone,Blueberry,-1.0,0.2,bias and weight point in opposite directions
+food,Testosterone,Lettuce,-1.0,0.1,bias and weight point in opposite directions
+food,Testosterone,Bell Peppers,-1.0,0.1,bias and weight point in opposite directions
+food,Testosterone,Almond,-1.0,0.2,bias and weight point in opposite directions
+food,Testosterone,Cashew,-1.0,0.1,bias and weight point in opposite directions
+food,Testosterone,Chestnut,-1.0,0.1,bias and weight point in opposite directions
+food,Testosterone,Hazelnut,-1.0,0.1,bias and weight point in opposite directions
+food,Testosterone,Walnut,-1.0,0.1,bias and weight point in opposite directions
+food,Testosterone,Pine Nut,-1.0,0.1,bias and weight point in opposite directions
+food,Testosterone,Ham,-1.0,0.1,bias and weight point in opposite directions
+food,Testosterone,Salami,-1.0,0.1,bias and weight point in opposite directions
+food,Testosterone,Whole Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Testosterone,Mozzarella,-1.0,0.1,bias and weight point in opposite directions
+food,Testosterone,Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Testosterone,Butter,-1.0,0.1,bias and weight point in opposite directions
+food,Testosterone,Ghee,-1.0,0.1,bias and weight point in opposite directions
+food,Testosterone,Chicken Nuggets,1.0,-0.1,bias and weight point in opposite directions
+food,Estrogen,Orange,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Lime,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Lettuce,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Zucchini,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Cucumber,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Bell Peppers,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Almond,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Cashew,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Chestnut,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Hazelnut,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Pistachio,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Walnut,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Pine Nut,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Chicken,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Beef,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Lamb,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Pork,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Ham,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Almond Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Soy Milk,-1.0,0.2,bias and weight point in opposite directions
+food,Estrogen,Mozzarella,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Butter,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Ghee,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Eggs,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Coffee,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Tea,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Beef Jerky,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Burgers,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Chicken Nuggets,-1.0,0.1,bias and weight point in opposite directions
+food,Estrogen,Tacos,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Mango,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Pineapple,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Lettuce,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Zucchini,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Cucumber,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Bell Peppers,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Almond,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Cashew,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Chestnut,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Hazelnut,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Pistachio,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Walnut,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Pine Nut,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Chicken,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Bacon,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Sausage,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Ham,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Salami,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Pepperoni,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Almond Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Soy Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Cheddar,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Mozzarella,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Butter,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Ghee,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Pastries,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Cookies,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Brownies,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Muffins,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Bread,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Croissants,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Ice Cream,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Pies,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Cakes,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Donuts,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Cereals,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Pancakes,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Waffles,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Coca Cola,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Pepsi,-1.0,0.1,bias and weight point in opposite directions
+food,Progesterone,Beer,-1.0,0.1,bias and weight point in opposite directions
+food,Cortisol,Strawberry,-1.0,0.2,bias and weight point in opposite directions
+food,Cortisol,Blueberry,-1.0,0.2,bias and weight point in opposite directions
+food,Cortisol,Pear,-1.0,0.2,bias and weight point in opposite directions
+food,Cortisol,Lettuce,-1.0,0.1,bias and weight point in opposite directions
+food,Cortisol,Zucchini,-1.0,0.1,bias and weight point in opposite directions
+food,Cortisol,Cucumber,-1.0,0.1,bias and weight point in opposite directions
+food,Cortisol,Bell Peppers,-1.0,0.1,bias and weight point in opposite directions
+food,Cortisol,Celery,-1.0,0.1,bias and weight point in opposite directions
+food,Cortisol,Almond,-1.0,0.1,bias and weight point in opposite directions
+food,Cortisol,Cashew,-1.0,0.1,bias and weight point in opposite directions
+food,Cortisol,Walnut,-1.0,0.1,bias and weight point in opposite directions
+food,Cortisol,Pumpkin Seed,-1.0,0.1,bias and weight point in opposite directions
+food,Cortisol,Chia Seed,-1.0,0.1,bias and weight point in opposite directions
+food,Cortisol,Flax Seed,-1.0,0.1,bias and weight point in opposite directions
+food,Cortisol,Sesame Seed,-1.0,0.1,bias and weight point in opposite directions
+food,Cortisol,Chicken,-1.0,0.1,bias and weight point in opposite directions
+food,Cortisol,Ham,-1.0,0.1,bias and weight point in opposite directions
+food,Cortisol,Almond Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Cortisol,Soy Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Cortisol,Mozzarella,-1.0,0.1,bias and weight point in opposite directions
+food,Cortisol,Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Cortisol,Butter,-1.0,0.1,bias and weight point in opposite directions
+food,Cortisol,Ghee,-1.0,0.1,bias and weight point in opposite directions
+food,Cortisol,Oatmeal,-1.0,0.1,bias and weight point in opposite directions
+food,Cortisol,Eggs,-1.0,0.1,bias and weight point in opposite directions
+food,Cortisol,Tea,-1.0,0.2,bias and weight point in opposite directions
+food,Cortisol,Guacamole,-1.0,0.1,bias and weight point in opposite directions
+food,Cortisol,Salsa,-1.0,0.1,bias and weight point in opposite directions
+food,Aldosterone,Watermelon,-1.0,0.1,bias and weight point in opposite directions
+food,Aldosterone,Muskmelon,-1.0,0.2,bias and weight point in opposite directions
+food,Aldosterone,Spinach,1.0,-0.2,bias and weight point in opposite directions
+food,Aldosterone,Kale,1.0,-0.3,bias and weight point in opposite directions
+food,Aldosterone,Broccoli,1.0,-0.2,bias and weight point in opposite directions
+food,Aldosterone,Cucumber,-1.0,0.1,bias and weight point in opposite directions
+food,Aldosterone,Bell Peppers,-1.0,0.2,bias and weight point in opposite directions
+food,Aldosterone,Almond,-1.0,0.2,bias and weight point in opposite directions
+food,Aldosterone,Cashew,-1.0,0.2,bias and weight point in opposite directions
+food,Aldosterone,Walnut,-1.0,0.1,bias and weight point in opposite directions
+food,Aldosterone,Pumpkin Seed,-1.0,0.2,bias and weight point in opposite directions
+food,Aldosterone,Chia Seed,-1.0,0.2,bias and weight point in opposite directions
+food,Aldosterone,Flax Seed,-1.0,0.1,bias and weight point in opposite directions
+food,Aldosterone,Sesame Seed,-1.0,0.2,bias and weight point in opposite directions
+food,Aldosterone,Chicken,-1.0,0.2,bias and weight point in opposite directions
+food,Aldosterone,Beef,-1.0,0.2,bias and weight point in opposite directions
+food,Aldosterone,Lamb,-1.0,0.2,bias and weight point in opposite directions
+food,Aldosterone,Pork,-1.0,0.2,bias and weight point in opposite directions
+food,Aldosterone,Whole Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Aldosterone,Almond Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Aldosterone,Soy Milk,-1.0,0.2,bias and weight point in opposite directions
+food,Aldosterone,Mozzarella,-1.0,0.1,bias and weight point in opposite directions
+food,Aldosterone,Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Aldosterone,Butter,-1.0,0.1,bias and weight point in opposite directions
+food,Aldosterone,Ghee,-1.0,0.1,bias and weight point in opposite directions
+food,Aldosterone,Oatmeal,-1.0,0.2,bias and weight point in opposite directions
+food,Aldosterone,Eggs,-1.0,0.2,bias and weight point in opposite directions
+food,Aldosterone,Coffee,-1.0,0.1,bias and weight point in opposite directions
+food,Aldosterone,Tea,-1.0,0.1,bias and weight point in opposite directions
+food,Aldosterone,Guacamole,-1.0,0.1,bias and weight point in opposite directions
+food,Aldosterone,Salsa,-1.0,0.1,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Guava,-1.0,0.2,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Kiwi,-1.0,0.2,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Spinach,1.0,-0.1,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Kale,1.0,-0.2,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Broccoli,1.0,-0.2,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Zucchini,-1.0,0.2,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Cucumber,-1.0,0.1,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Bell Peppers,-1.0,0.2,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Almond,-1.0,0.2,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Cashew,-1.0,0.2,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Walnut,-1.0,0.2,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Pumpkin Seed,-1.0,0.2,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Chia Seed,-1.0,0.2,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Flax Seed,-1.0,0.2,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Sesame Seed,-1.0,0.2,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Chicken,-1.0,0.2,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Beef,-1.0,0.2,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Lamb,-1.0,0.2,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Pork,-1.0,0.2,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Ham,-1.0,0.1,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Almond Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Soy Milk,-1.0,0.2,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Mozzarella,-1.0,0.1,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Greek Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Butter,-1.0,0.1,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Ghee,-1.0,0.1,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Eggs,-1.0,0.2,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Coffee,-1.0,0.2,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Tea,-1.0,0.2,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Beef Jerky,-1.0,0.2,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Burgers,-1.0,0.2,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Chicken Nuggets,-1.0,0.2,bias and weight point in opposite directions
+food,Thyroid-Stimulating Hormone (TSH),Tacos,-1.0,0.2,bias and weight point in opposite directions
+food,Free Thyroxine (Free T4),Pineapple,-1.0,0.3,bias and weight point in opposite directions
+food,Free Thyroxine (Free T4),Plum,-1.0,0.1,bias and weight point in opposite directions
+food,Free Thyroxine (Free T4),Lettuce,-1.0,0.1,bias and weight point in opposite directions
+food,Free Thyroxine (Free T4),Zucchini,-1.0,0.1,bias and weight point in opposite directions
+food,Free Thyroxine (Free T4),Cucumber,-1.0,0.1,bias and weight point in opposite directions
+food,Free Thyroxine (Free T4),Bell Peppers,-1.0,0.2,bias and weight point in opposite directions
+food,Free Thyroxine (Free T4),Almond,-1.0,0.1,bias and weight point in opposite directions
+food,Free Thyroxine (Free T4),Cashew,-1.0,0.1,bias and weight point in opposite directions
+food,Free Thyroxine (Free T4),Chestnut,-1.0,0.1,bias and weight point in opposite directions
+food,Free Thyroxine (Free T4),Hazelnut,-1.0,0.1,bias and weight point in opposite directions
+food,Free Thyroxine (Free T4),Pistachio,-1.0,0.1,bias and weight point in opposite directions
+food,Free Thyroxine (Free T4),Walnut,-1.0,0.2,bias and weight point in opposite directions
+food,Free Thyroxine (Free T4),Ham,1.0,-0.1,bias and weight point in opposite directions
+food,Free Thyroxine (Free T4),Whole Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Free Thyroxine (Free T4),Almond Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Free Thyroxine (Free T4),Soy Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Free Thyroxine (Free T4),Mozzarella,-1.0,0.1,bias and weight point in opposite directions
+food,Free Thyroxine (Free T4),Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Free Thyroxine (Free T4),Coffee,1.0,-0.2,bias and weight point in opposite directions
+food,Free Thyroxine (Free T4),Tea,1.0,-0.1,bias and weight point in opposite directions
+food,Free Thyroxine (Free T4),Beef Jerky,1.0,-0.1,bias and weight point in opposite directions
+food,Free Thyroxine (Free T4),Burgers,1.0,-0.3,bias and weight point in opposite directions
+food,Free Thyroxine (Free T4),Chicken Nuggets,1.0,-0.2,bias and weight point in opposite directions
+food,Free Thyroxine (Free T4),Tacos,1.0,-0.2,bias and weight point in opposite directions
+food,Free Triiodothyronine (Free T3),Mango,-1.0,0.1,bias and weight point in opposite directions
+food,Free Triiodothyronine (Free T3),Apricot,-1.0,0.1,bias and weight point in opposite directions
+food,Free Triiodothyronine (Free T3),Lettuce,-1.0,0.1,bias and weight point in opposite directions
+food,Free Triiodothyronine (Free T3),Zucchini,-1.0,0.1,bias and weight point in opposite directions
+food,Free Triiodothyronine (Free T3),Cucumber,-1.0,0.1,bias and weight point in opposite directions
+food,Free Triiodothyronine (Free T3),Bell Peppers,-1.0,0.2,bias and weight point in opposite directions
+food,Free Triiodothyronine (Free T3),Almond,-1.0,0.1,bias and weight point in opposite directions
+food,Free Triiodothyronine (Free T3),Cashew,-1.0,0.1,bias and weight point in opposite directions
+food,Free Triiodothyronine (Free T3),Chestnut,-1.0,0.1,bias and weight point in opposite directions
+food,Free Triiodothyronine (Free T3),Hazelnut,-1.0,0.1,bias and weight point in opposite directions
+food,Free Triiodothyronine (Free T3),Pistachio,-1.0,0.1,bias and weight point in opposite directions
+food,Free Triiodothyronine (Free T3),Walnut,-1.0,0.1,bias and weight point in opposite directions
+food,Free Triiodothyronine (Free T3),Ham,1.0,-0.1,bias and weight point in opposite directions
+food,Free Triiodothyronine (Free T3),Almond Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Free Triiodothyronine (Free T3),Soy Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Free Triiodothyronine (Free T3),Mozzarella,-1.0,0.1,bias and weight point in opposite directions
+food,Free Triiodothyronine (Free T3),Greek Yogurt,-1.0,0.2,bias and weight point in opposite directions
+food,Free Triiodothyronine (Free T3),Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Free Triiodothyronine (Free T3),Coffee,1.0,-0.2,bias and weight point in opposite directions
+food,Free Triiodothyronine (Free T3),Tea,1.0,-0.1,bias and weight point in opposite directions
+food,Free Triiodothyronine (Free T3),Beef Jerky,1.0,-0.1,bias and weight point in opposite directions
+food,Free Triiodothyronine (Free T3),Burgers,1.0,-0.3,bias and weight point in opposite directions
+food,Free Triiodothyronine (Free T3),Chicken Nuggets,1.0,-0.2,bias and weight point in opposite directions
+food,Free Triiodothyronine (Free T3),Tacos,1.0,-0.2,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Blueberry,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Guava,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Apple,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Spinach,1.0,-0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Kale,1.0,-0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Broccoli,1.0,-0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Cauliflower,1.0,-0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Green Peas,1.0,-0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Lentils,1.0,-0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Chickpeas,1.0,-0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Kidney Beans,1.0,-0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Beets,1.0,-0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Radishes,1.0,-0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Garlic,1.0,-0.2,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Onion,1.0,-0.2,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Almond,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Cashew,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Chestnut,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Hazelnut,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Pistachio,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Walnut,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Pine Nut,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Sunflower Seed,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Pumpkin Seed,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Chia Seed,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Flax Seed,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Sesame Seed,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Wheat,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Oats,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Salmon,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Sardines,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Cod,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Chicken,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Ham,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Almond Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Soy Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Mozzarella,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Ghee,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Oatmeal,-1.0,0.2,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Eggs,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Coffee,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Tea,-1.0,0.1,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Lemonade,-1.0,0.2,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Guacamole,-1.0,0.2,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Salsa,-1.0,0.2,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Popcorn,-1.0,0.2,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Crackers,-1.0,0.2,bias and weight point in opposite directions
+food,Aspartate Aminotransferase,Beef Jerky,-1.0,0.2,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Blueberry,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Guava,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Pear,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Spinach,1.0,-0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Kale,1.0,-0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Broccoli,1.0,-0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Cauliflower,1.0,-0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Green Peas,1.0,-0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Lentils,1.0,-0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Chickpeas,1.0,-0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Kidney Beans,1.0,-0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Beets,1.0,-0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Radishes,1.0,-0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Garlic,1.0,-0.2,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Onion,1.0,-0.2,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Almond,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Cashew,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Chestnut,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Hazelnut,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Pistachio,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Walnut,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Pine Nut,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Sunflower Seed,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Pumpkin Seed,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Chia Seed,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Flax Seed,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Sesame Seed,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Wheat,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Oats,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Salmon,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Sardines,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Shrimp,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Chicken,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Ham,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Almond Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Soy Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Mozzarella,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Ghee,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Oatmeal,-1.0,0.2,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Eggs,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Coffee,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Tea,-1.0,0.1,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Lemonade,-1.0,0.2,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Guacamole,-1.0,0.2,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Salsa,-1.0,0.2,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Popcorn,-1.0,0.2,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Crackers,-1.0,0.2,bias and weight point in opposite directions
+food,Alanine Aminotransferase,Beef Jerky,-1.0,0.2,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Blueberry,-1.0,0.1,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Guava,-1.0,0.1,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Sweet Potatoes,-1.0,0.1,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Pumpkin,-1.0,0.1,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Bell Peppers,-1.0,0.1,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Parsley,-1.0,0.1,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Ginger,-1.0,0.1,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Turmeric,-1.0,0.2,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Salmon,-1.0,0.1,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Sardines,-1.0,0.1,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Oysters,-1.0,0.1,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Bacon,1.0,-0.1,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Sausage,1.0,-0.1,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Salami,1.0,-0.1,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Pepperoni,1.0,-0.1,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Butter,1.0,-0.1,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Pastries,1.0,-0.2,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Cookies,1.0,-0.2,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Brownies,1.0,-0.2,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Muffins,1.0,-0.2,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Croissants,1.0,-0.2,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Ice Cream,1.0,-0.2,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Pies,1.0,-0.2,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Cakes,1.0,-0.2,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Donuts,1.0,-0.2,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Cereals,1.0,-0.1,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Pancakes,1.0,-0.2,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Waffles,1.0,-0.2,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Coca Cola,1.0,-0.3,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Pepsi,1.0,-0.3,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Beer,1.0,-0.3,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Guacamole,-1.0,0.1,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Potato Chips,1.0,-0.3,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Burgers,1.0,-0.2,bias and weight point in opposite directions
+food,Alkaline Phosphatase,French Fries,1.0,-0.3,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Pizza,1.0,-0.2,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Chicken Nuggets,1.0,-0.2,bias and weight point in opposite directions
+food,Alkaline Phosphatase,Tacos,1.0,-0.2,bias and weight point in opposite directions
+food,Gamma-Glutamyl Transferase,Ham,-1.0,0.1,bias and weight point in opposite directions
+food,Gamma-Glutamyl Transferase,Ghee,-1.0,0.1,bias and weight point in opposite directions
+food,Gamma-Glutamyl Transferase,Lemonade,-1.0,0.2,bias and weight point in opposite directions
+food,Gamma-Glutamyl Transferase,Crackers,-1.0,0.1,bias and weight point in opposite directions
+food,Gamma-Glutamyl Transferase,Beef Jerky,-1.0,0.1,bias and weight point in opposite directions
+food,Bilirubin,Blueberry,-1.0,0.1,bias and weight point in opposite directions
+food,Bilirubin,Guava,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Kiwi,-1.0,0.1,bias and weight point in opposite directions
+food,Bilirubin,Spinach,1.0,-0.3,bias and weight point in opposite directions
+food,Bilirubin,Kale,1.0,-0.3,bias and weight point in opposite directions
+food,Bilirubin,Broccoli,1.0,-0.2,bias and weight point in opposite directions
+food,Bilirubin,Cauliflower,1.0,-0.1,bias and weight point in opposite directions
+food,Bilirubin,Green Peas,1.0,-0.1,bias and weight point in opposite directions
+food,Bilirubin,Lentils,1.0,-0.1,bias and weight point in opposite directions
+food,Bilirubin,Chickpeas,1.0,-0.1,bias and weight point in opposite directions
+food,Bilirubin,Kidney Beans,1.0,-0.2,bias and weight point in opposite directions
+food,Bilirubin,Beets,1.0,-0.1,bias and weight point in opposite directions
+food,Bilirubin,Radishes,1.0,-0.1,bias and weight point in opposite directions
+food,Bilirubin,Garlic,1.0,-0.2,bias and weight point in opposite directions
+food,Bilirubin,Onion,1.0,-0.2,bias and weight point in opposite directions
+food,Bilirubin,Corn,1.0,-0.1,bias and weight point in opposite directions
+food,Bilirubin,Barley,1.0,-0.1,bias and weight point in opposite directions
+food,Bilirubin,Salmon,-1.0,0.3,bias and weight point in opposite directions
+food,Bilirubin,Cod,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Oysters,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Chicken,-1.0,0.1,bias and weight point in opposite directions
+food,Bilirubin,Ham,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Almond Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Bilirubin,Soy Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Bilirubin,Mozzarella,-1.0,0.1,bias and weight point in opposite directions
+food,Bilirubin,Greek Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Bilirubin,Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Bilirubin,Ghee,-1.0,0.1,bias and weight point in opposite directions
+food,Bilirubin,Pastries,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Cookies,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Brownies,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Muffins,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Bread,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Croissants,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Ice Cream,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Pies,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Cakes,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Donuts,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Cereals,-1.0,0.1,bias and weight point in opposite directions
+food,Bilirubin,Pancakes,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Waffles,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Oatmeal,-1.0,0.1,bias and weight point in opposite directions
+food,Bilirubin,Eggs,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Coca Cola,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Pepsi,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Coffee,-1.0,0.1,bias and weight point in opposite directions
+food,Bilirubin,Tea,-1.0,0.1,bias and weight point in opposite directions
+food,Bilirubin,Lemonade,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Mayonnaise,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Guacamole,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Salsa,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Ketchup,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Potato Chips,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Popcorn,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Crackers,-1.0,0.2,bias and weight point in opposite directions
+food,Bilirubin,Beef Jerky,-1.0,0.2,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Blueberry,-1.0,0.1,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Guava,-1.0,0.2,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Apple,-1.0,0.2,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Spinach,1.0,-0.2,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Kale,1.0,-0.3,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Broccoli,1.0,-0.2,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Cauliflower,1.0,-0.1,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Green Peas,1.0,-0.1,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Lentils,1.0,-0.1,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Chickpeas,1.0,-0.1,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Kidney Beans,1.0,-0.2,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Beets,1.0,-0.1,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Radishes,1.0,-0.1,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Garlic,1.0,-0.2,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Onion,1.0,-0.2,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Corn,1.0,-0.1,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Barley,1.0,-0.1,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Salmon,-1.0,0.3,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Cod,-1.0,0.2,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Shrimp,-1.0,0.2,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Chicken,-1.0,0.1,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Ham,-1.0,0.2,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Whole Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Almond Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Soy Milk,-1.0,0.1,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Mozzarella,-1.0,0.1,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Ghee,-1.0,0.1,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Oatmeal,-1.0,0.1,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Eggs,-1.0,0.2,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Coffee,-1.0,0.1,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Tea,-1.0,0.1,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Lemonade,-1.0,0.2,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Guacamole,-1.0,0.2,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Salsa,-1.0,0.2,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Popcorn,-1.0,0.2,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Crackers,-1.0,0.2,bias and weight point in opposite directions
+food,Lactate Dehydrogenase,Beef Jerky,-1.0,0.2,bias and weight point in opposite directions
+food,Partial Thromboplastin Time,Mackerel,1.0,-1.0,bias and weight point in opposite directions
+food,Partial Thromboplastin Time,Tuna,1.0,-1.0,bias and weight point in opposite directions
+food,Fibrinogen,Blueberry,-1.0,0.1,bias and weight point in opposite directions
+food,Fibrinogen,Guava,-1.0,0.1,bias and weight point in opposite directions
+food,Fibrinogen,Kiwi,-1.0,0.1,bias and weight point in opposite directions
+food,Fibrinogen,Ginger,-1.0,0.1,bias and weight point in opposite directions
+food,Fibrinogen,Turmeric,-1.0,0.1,bias and weight point in opposite directions
+food,Fibrinogen,Salmon,-1.0,0.1,bias and weight point in opposite directions
+food,Fibrinogen,Sardines,-1.0,0.1,bias and weight point in opposite directions
+food,Fibrinogen,Crab,-1.0,0.1,bias and weight point in opposite directions
+food,Fibrinogen,Chicken,-1.0,0.1,bias and weight point in opposite directions
+food,Fibrinogen,Ham,-1.0,0.1,bias and weight point in opposite directions
+food,Fibrinogen,Mozzarella,-1.0,0.1,bias and weight point in opposite directions
+food,Fibrinogen,Yogurt,-1.0,0.1,bias and weight point in opposite directions
+food,Fibrinogen,Ghee,-1.0,0.1,bias and weight point in opposite directions
+food,Fibrinogen,Oatmeal,-1.0,0.1,bias and weight point in opposite directions
+food,Fibrinogen,Eggs,-1.0,0.1,bias and weight point in opposite directions
+food,Fibrinogen,Guacamole,-1.0,0.1,bias and weight point in opposite directions
+food,Fibrinogen,Beef Jerky,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Blood Glucose,Omega-3 Fatty Acids,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Blood Glucose,Tannins,0.0,-0.2,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Blood Glucose,Phytic Acid,0.0,-0.2,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Hemoglobin A1c,Omega-3 Fatty Acids,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Hemoglobin A1c,Tannins,0.0,-0.2,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Hemoglobin A1c,Phytic Acid,0.0,-0.2,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Glycated Albumin,Magnesium,-1.0,0.3,bias and weight point in opposite directions
+nutrient,Glycated Albumin,Omega-3 Fatty Acids,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Glycated Albumin,Polyphenols,-1.0,0.2,bias and weight point in opposite directions
+nutrient,Glycated Albumin,Antioxidants,-1.0,0.3,bias and weight point in opposite directions
+nutrient,Glycated Albumin,Tannins,0.0,-0.2,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Glycated Albumin,Lectins,0.0,-0.2,says Lectins lowers this test; the old model then advised eating more of it
+nutrient,Glycated Albumin,Phytic Acid,0.0,-0.3,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Glycated Albumin,Oxalates,0.0,-0.2,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Total Cholesterol,Monounsaturated Fatty Acids,-1.0,0.5,bias and weight point in opposite directions
+nutrient,Total Cholesterol,Polyunsaturated Fatty Acids,-1.0,0.3,bias and weight point in opposite directions
+nutrient,Total Cholesterol,Omega-3 Fatty Acids,-1.0,0.2,bias and weight point in opposite directions
+nutrient,Total Cholesterol,Phytosterols,-1.0,0.2,bias and weight point in opposite directions
+nutrient,Total Cholesterol,Antioxidants,-1.0,0.2,bias and weight point in opposite directions
+nutrient,Total Cholesterol,Tannins,0.0,-0.2,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Total Cholesterol,Lectins,0.0,-0.2,says Lectins lowers this test; the old model then advised eating more of it
+nutrient,Total Cholesterol,Phytic Acid,0.0,-0.2,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Total Cholesterol,Oxalates,0.0,-0.2,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,LDL Cholesterol,Monounsaturated Fatty Acids,-1.0,0.3,bias and weight point in opposite directions
+nutrient,LDL Cholesterol,Tannins,0.0,-0.1,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,LDL Cholesterol,Phytic Acid,0.0,-0.2,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,HDL Cholesterol,Sodium,0.0,-0.3,says Sodium lowers this test; the old model then advised eating more of it
+nutrient,HDL Cholesterol,Saturated Fatty Acids,0.0,-0.5,says Saturated Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,HDL Cholesterol,Trans Fatty Acids,-1.0,-0.5,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,HDL Cholesterol,Glucose,0.0,-0.1,says Glucose lowers this test; the old model then advised eating more of it
+nutrient,HDL Cholesterol,Fructose,0.0,-0.1,says Fructose lowers this test; the old model then advised eating more of it
+nutrient,HDL Cholesterol,Sucrose,0.0,-0.1,says Sucrose lowers this test; the old model then advised eating more of it
+nutrient,HDL Cholesterol,Cholesterol,0.0,-0.5,says Cholesterol lowers this test; the old model then advised eating more of it
+nutrient,HDL Cholesterol,Alcohol,0.0,-0.1,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Triglycerides,Monounsaturated Fatty Acids,-1.0,0.5,bias and weight point in opposite directions
+nutrient,Triglycerides,Polyunsaturated Fatty Acids,-1.0,0.4,bias and weight point in opposite directions
+nutrient,Apolipoprotein A1,Trans Fatty Acids,-1.0,0.0,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Apolipoprotein B,Monounsaturated Fatty Acids,-1.0,0.2,bias and weight point in opposite directions
+nutrient,Apolipoprotein B,Polyunsaturated Fatty Acids,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Vitamin D,Trans Fatty Acids,0.0,-0.2,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Vitamin D,Alcohol,0.0,-0.1,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Vitamin D,Phytic Acid,-1.0,0.0,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Vitamin D,Oxalates,-1.0,0.0,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Vitamin C,Sodium,-1.0,-0.1,says Sodium lowers this test; the old model then advised eating more of it
+nutrient,Vitamin C,Copper,-1.0,0.2,bias and weight point in opposite directions
+nutrient,Vitamin C,Saturated Fatty Acids,0.0,-0.2,says Saturated Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Vitamin C,Trans Fatty Acids,0.0,-0.3,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Vitamin C,Alcohol,-1.0,-0.5,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Vitamin C,Caffeine,-1.0,0.0,says Caffeine lowers this test; the old model then advised eating more of it
+nutrient,Vitamin C,Tannins,-1.0,0.2,bias and weight point in opposite directions
+nutrient,Vitamin C,Tannins,-1.0,0.2,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Vitamin C,Phytic Acid,0.0,-0.1,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Vitamin C,Oxalates,0.0,-0.1,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Vitamin K,Vitamin E,-1.0,0.5,bias and weight point in opposite directions
+nutrient,Vitamin K,Sodium,0.0,-0.1,says Sodium lowers this test; the old model then advised eating more of it
+nutrient,Vitamin K,Omega-3 Fatty Acids,-1.0,0.5,bias and weight point in opposite directions
+nutrient,Vitamin K,Omega-6 Fatty Acids,-1.0,0.3,bias and weight point in opposite directions
+nutrient,Vitamin K,Trans Fatty Acids,0.0,-0.4,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Vitamin K,Alcohol,0.0,-0.5,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Vitamin K,Phytic Acid,0.0,-0.1,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Vitamin K,Oxalates,0.0,-0.2,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B6 (Pyridoxine),Proteins,-1.0,0.3,bias and weight point in opposite directions
+nutrient,Vitamin B6 (Pyridoxine),Trans Fatty Acids,0.0,-0.3,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B6 (Pyridoxine),Cholesterol,0.0,-0.1,says Cholesterol lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B6 (Pyridoxine),Alcohol,-1.0,-0.5,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B6 (Pyridoxine),Caffeine,0.0,-0.2,says Caffeine lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B1 (Thiamine),Trans Fatty Acids,0.0,-0.3,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B1 (Thiamine),Cholesterol,0.0,-0.1,says Cholesterol lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B1 (Thiamine),Alcohol,-1.0,-0.5,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B1 (Thiamine),Caffeine,0.0,-0.2,says Caffeine lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B1 (Thiamine),Tannins,-1.0,0.0,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B2 (Riboflavin),Trans Fatty Acids,0.0,-0.3,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B2 (Riboflavin),Alcohol,-1.0,-0.5,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B2 (Riboflavin),Caffeine,-1.0,-0.3,says Caffeine lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B2 (Riboflavin),Tannins,0.0,-0.1,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B2 (Riboflavin),Phytic Acid,0.0,-0.1,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B2 (Riboflavin),Oxalates,0.0,-0.1,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B3 (Niacin),Carbohydrates,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Vitamin B3 (Niacin),Trans Fatty Acids,0.0,-0.3,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B3 (Niacin),Alcohol,-1.0,-0.5,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B3 (Niacin),Caffeine,0.0,-0.3,says Caffeine lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B3 (Niacin),Tannins,0.0,-0.1,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B3 (Niacin),Phytic Acid,0.0,-0.1,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B3 (Niacin),Oxalates,0.0,-0.1,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B5 (Pantothenic Acid),Trans Fatty Acids,0.0,-0.2,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B5 (Pantothenic Acid),Alcohol,0.0,-0.3,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B5 (Pantothenic Acid),Caffeine,0.0,-0.2,says Caffeine lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B5 (Pantothenic Acid),Tannins,0.0,-0.1,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B7 (Biotin),Trans Fatty Acids,0.0,-0.2,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B7 (Biotin),Alcohol,-1.0,-0.3,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B7 (Biotin),Caffeine,0.0,-0.2,says Caffeine lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B7 (Biotin),Tannins,0.0,-0.1,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B9 (Folate),Zinc,-1.0,0.2,bias and weight point in opposite directions
+nutrient,Vitamin B9 (Folate),Saturated Fatty Acids,0.0,-0.1,says Saturated Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B9 (Folate),Trans Fatty Acids,0.0,-0.2,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B9 (Folate),Alcohol,-1.0,-0.3,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B9 (Folate),Caffeine,0.0,-0.2,says Caffeine lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B9 (Folate),Tannins,0.0,-0.1,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B9 (Folate),Lectins,0.0,-0.1,says Lectins lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B9 (Folate),Oxalates,0.0,-0.1,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B12 (Cobalamin),Vitamin C,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Vitamin B12 (Cobalamin),Trans Fatty Acids,0.0,-0.1,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B12 (Cobalamin),Alcohol,-1.0,-0.2,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B12 (Cobalamin),Caffeine,0.0,-0.1,says Caffeine lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B12 (Cobalamin),Tannins,0.0,-0.1,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B12 (Cobalamin),Lectins,0.0,-0.1,says Lectins lowers this test; the old model then advised eating more of it
+nutrient,Vitamin B12 (Cobalamin),Oxalates,0.0,-0.1,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Vitamin A,Iron,-1.0,0.4,bias and weight point in opposite directions
+nutrient,Vitamin A,Sodium,0.0,-0.1,says Sodium lowers this test; the old model then advised eating more of it
+nutrient,Vitamin A,Trans Fatty Acids,0.0,-0.4,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Vitamin A,Fiber,-1.0,0.3,bias and weight point in opposite directions
+nutrient,Vitamin A,Cholesterol,0.0,-0.3,says Cholesterol lowers this test; the old model then advised eating more of it
+nutrient,Vitamin A,Alcohol,-1.0,-0.2,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Vitamin A,Caffeine,0.0,-0.1,says Caffeine lowers this test; the old model then advised eating more of it
+nutrient,Vitamin A,Oxalates,0.0,-0.1,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Creatinine,Trans Fatty Acids,0.0,-0.2,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Creatinine,Alcohol,0.0,-0.2,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Uric Acid,Tannins,0.0,-0.1,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Blood Urea Nitrogen,Glucose,0.0,-0.2,says Glucose lowers this test; the old model then advised eating more of it
+nutrient,Blood Urea Nitrogen,Fructose,0.0,-0.1,says Fructose lowers this test; the old model then advised eating more of it
+nutrient,Potassium,Sodium,-1.0,-0.8,says Sodium lowers this test; the old model then advised eating more of it
+nutrient,Potassium,Saturated Fatty Acids,0.0,-0.2,says Saturated Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Potassium,Trans Fatty Acids,0.0,-0.4,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Potassium,Alcohol,0.0,-0.2,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Potassium,Caffeine,0.0,-0.1,says Caffeine lowers this test; the old model then advised eating more of it
+nutrient,Potassium,Tannins,0.0,-0.1,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Potassium,Phytic Acid,0.0,-0.1,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Potassium,Oxalates,0.0,-0.2,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Calcium,Sodium,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Calcium,Sodium,-1.0,0.1,says Sodium lowers this test; the old model then advised eating more of it
+nutrient,Calcium,Trans Fatty Acids,0.0,-0.2,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Calcium,Alcohol,0.0,-0.2,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Calcium,Caffeine,-1.0,-0.1,says Caffeine lowers this test; the old model then advised eating more of it
+nutrient,Calcium,Tannins,0.0,-0.1,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Calcium,Phytic Acid,-1.0,-0.2,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Calcium,Oxalates,-1.0,-0.2,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Magnesium,Sodium,0.0,-0.1,says Sodium lowers this test; the old model then advised eating more of it
+nutrient,Magnesium,Phytic Acid,-1.0,-0.1,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Magnesium,Oxalates,-1.0,-0.2,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Chloride,Potassium,-1.0,0.5,bias and weight point in opposite directions
+nutrient,Iron,Alcohol,0.0,-0.2,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Iron,Caffeine,0.0,-0.1,says Caffeine lowers this test; the old model then advised eating more of it
+nutrient,Iron,Tannins,-1.0,-0.3,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Iron,Lectins,0.0,-0.2,says Lectins lowers this test; the old model then advised eating more of it
+nutrient,Iron,Phytic Acid,-1.0,-0.5,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Iron,Oxalates,-1.0,-0.3,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Globulin,Alcohol,-1.0,-0.1,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Globulin,Caffeine,-1.0,0.0,says Caffeine lowers this test; the old model then advised eating more of it
+nutrient,Globulin,Tannins,-1.0,-0.1,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Globulin,Phytic Acid,-1.0,-0.2,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Globulin,Oxalates,-1.0,-0.1,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Albumin,Alcohol,-1.0,-0.2,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Albumin,Caffeine,-1.0,0.0,says Caffeine lowers this test; the old model then advised eating more of it
+nutrient,Albumin,Tannins,-1.0,-0.1,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Albumin,Lectins,0.0,-0.1,says Lectins lowers this test; the old model then advised eating more of it
+nutrient,Albumin,Phytic Acid,-1.0,-0.1,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Albumin,Oxalates,-1.0,-0.1,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Total Protein,Alcohol,-1.0,-0.1,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Total Protein,Caffeine,-1.0,0.0,says Caffeine lowers this test; the old model then advised eating more of it
+nutrient,Total Protein,Tannins,-1.0,-0.1,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Total Protein,Lectins,0.0,-0.1,says Lectins lowers this test; the old model then advised eating more of it
+nutrient,Total Protein,Phytic Acid,-1.0,-0.1,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Total Protein,Oxalates,-1.0,-0.1,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Albumin/Globulin Ratio,Sodium,0.0,-0.2,says Sodium lowers this test; the old model then advised eating more of it
+nutrient,Albumin/Globulin Ratio,Trans Fatty Acids,0.0,-0.2,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Albumin/Globulin Ratio,Alcohol,-1.0,-0.3,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Albumin/Globulin Ratio,Caffeine,-1.0,-0.1,says Caffeine lowers this test; the old model then advised eating more of it
+nutrient,Albumin/Globulin Ratio,Tannins,-1.0,0.0,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Albumin/Globulin Ratio,Phytic Acid,-1.0,0.0,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Albumin/Globulin Ratio,Oxalates,-1.0,0.0,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,C-Reactive Protein,Vitamin C,-1.0,0.3,bias and weight point in opposite directions
+nutrient,C-Reactive Protein,Omega-3 Fatty Acids,-1.0,0.1,bias and weight point in opposite directions
+nutrient,C-Reactive Protein,Flavonoids,-1.0,0.1,bias and weight point in opposite directions
+nutrient,C-Reactive Protein,Polyphenols,-1.0,0.1,bias and weight point in opposite directions
+nutrient,C-Reactive Protein,Fiber,-1.0,0.1,bias and weight point in opposite directions
+nutrient,C-Reactive Protein,Antioxidants,-1.0,0.1,bias and weight point in opposite directions
+nutrient,C-Reactive Protein,Prebiotics,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Haptoglobin,Trans Fatty Acids,0.0,-0.1,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Haptoglobin,Alcohol,-1.0,-0.2,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Haptoglobin,Caffeine,-1.0,-0.1,says Caffeine lowers this test; the old model then advised eating more of it
+nutrient,Haptoglobin,Tannins,0.0,-0.2,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Haptoglobin,Phytic Acid,-1.0,-0.1,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Haptoglobin,Oxalates,-1.0,0.0,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Transferrin,Trans Fatty Acids,0.0,-0.1,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Transferrin,Alcohol,-1.0,-0.2,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Transferrin,Caffeine,-1.0,-0.1,says Caffeine lowers this test; the old model then advised eating more of it
+nutrient,Transferrin,Tannins,-1.0,-0.2,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Transferrin,Phytic Acid,-1.0,-0.1,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Transferrin,Oxalates,-1.0,0.0,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,C-Peptide,Trans Fatty Acids,0.0,-0.1,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,C-Peptide,Alcohol,-1.0,-0.2,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,C-Peptide,Caffeine,-1.0,-0.1,says Caffeine lowers this test; the old model then advised eating more of it
+nutrient,C-Peptide,Tannins,0.0,-0.1,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,C-Peptide,Lectins,0.0,-0.1,says Lectins lowers this test; the old model then advised eating more of it
+nutrient,C-Peptide,Phytic Acid,-1.0,-0.1,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,C-Peptide,Oxalates,-1.0,-0.1,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Testosterone,Sodium,-1.0,0.2,bias and weight point in opposite directions
+nutrient,Testosterone,Sodium,-1.0,0.2,says Sodium lowers this test; the old model then advised eating more of it
+nutrient,Testosterone,Trans Fatty Acids,-1.0,-0.2,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Testosterone,Alcohol,-1.0,-0.3,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Testosterone,Caffeine,0.0,-0.2,says Caffeine lowers this test; the old model then advised eating more of it
+nutrient,Testosterone,Tannins,0.0,-0.1,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Testosterone,Lectins,-1.0,-0.1,says Lectins lowers this test; the old model then advised eating more of it
+nutrient,Testosterone,Phytic Acid,-1.0,-0.1,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Testosterone,Oxalates,-1.0,-0.1,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Estrogen,Sodium,-1.0,0.0,says Sodium lowers this test; the old model then advised eating more of it
+nutrient,Estrogen,Trans Fatty Acids,-1.0,-0.2,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Estrogen,Alcohol,-1.0,-0.3,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Estrogen,Caffeine,-1.0,-0.2,says Caffeine lowers this test; the old model then advised eating more of it
+nutrient,Estrogen,Tannins,0.0,-0.1,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Estrogen,Lectins,0.0,-0.2,says Lectins lowers this test; the old model then advised eating more of it
+nutrient,Estrogen,Phytic Acid,-1.0,-0.1,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Estrogen,Oxalates,-1.0,-0.1,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Progesterone,Sodium,-1.0,0.0,says Sodium lowers this test; the old model then advised eating more of it
+nutrient,Progesterone,Trans Fatty Acids,-1.0,-0.1,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Progesterone,Alcohol,-1.0,-0.2,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Progesterone,Caffeine,-1.0,-0.1,says Caffeine lowers this test; the old model then advised eating more of it
+nutrient,Progesterone,Tannins,0.0,-0.1,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Progesterone,Lectins,0.0,-0.1,says Lectins lowers this test; the old model then advised eating more of it
+nutrient,Progesterone,Phytic Acid,-1.0,-0.1,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Progesterone,Oxalates,-1.0,-0.1,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Cortisol,Sodium,-1.0,0.4,bias and weight point in opposite directions
+nutrient,Cortisol,Sodium,-1.0,0.4,says Sodium lowers this test; the old model then advised eating more of it
+nutrient,Cortisol,Trans Fatty Acids,-1.0,-0.3,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Cortisol,Alcohol,-1.0,-0.3,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Cortisol,Caffeine,-1.0,0.3,bias and weight point in opposite directions
+nutrient,Cortisol,Caffeine,-1.0,0.3,says Caffeine lowers this test; the old model then advised eating more of it
+nutrient,Cortisol,Oxalates,-1.0,-0.1,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Aldosterone,Sodium,-1.0,0.6,bias and weight point in opposite directions
+nutrient,Aldosterone,Sodium,-1.0,0.6,says Sodium lowers this test; the old model then advised eating more of it
+nutrient,Aldosterone,Trans Fatty Acids,-1.0,-0.2,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Aldosterone,Alcohol,-1.0,-0.2,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Aldosterone,Phytic Acid,-1.0,0.0,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Aldosterone,Oxalates,-1.0,0.0,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Thyroid-Stimulating Hormone (TSH),Sodium,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Thyroid-Stimulating Hormone (TSH),Sodium,-1.0,0.1,says Sodium lowers this test; the old model then advised eating more of it
+nutrient,Thyroid-Stimulating Hormone (TSH),Alcohol,-1.0,-0.1,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Thyroid-Stimulating Hormone (TSH),Tannins,0.0,-0.1,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Thyroid-Stimulating Hormone (TSH),Phytic Acid,-1.0,0.0,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Thyroid-Stimulating Hormone (TSH),Oxalates,-1.0,0.0,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Free Thyroxine (Free T4),Sodium,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Free Thyroxine (Free T4),Sodium,-1.0,0.1,says Sodium lowers this test; the old model then advised eating more of it
+nutrient,Free Thyroxine (Free T4),Alcohol,-1.0,-0.1,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Free Thyroxine (Free T4),Tannins,0.0,-0.1,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Free Thyroxine (Free T4),Phytic Acid,-1.0,0.0,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Free Thyroxine (Free T4),Oxalates,-1.0,0.0,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Free Triiodothyronine (Free T3),Sodium,-1.0,-0.1,says Sodium lowers this test; the old model then advised eating more of it
+nutrient,Free Triiodothyronine (Free T3),Saturated Fatty Acids,0.0,-0.1,says Saturated Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Free Triiodothyronine (Free T3),Trans Fatty Acids,0.0,-0.2,says Trans Fatty Acids lowers this test; the old model then advised eating more of it
+nutrient,Free Triiodothyronine (Free T3),Cholesterol,0.0,-0.1,says Cholesterol lowers this test; the old model then advised eating more of it
+nutrient,Free Triiodothyronine (Free T3),Alcohol,-1.0,-0.2,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Free Triiodothyronine (Free T3),Tannins,0.0,-0.1,says Tannins lowers this test; the old model then advised eating more of it
+nutrient,Free Triiodothyronine (Free T3),Lectins,0.0,-0.1,says Lectins lowers this test; the old model then advised eating more of it
+nutrient,Free Triiodothyronine (Free T3),Phytic Acid,-1.0,-0.1,says Phytic Acid lowers this test; the old model then advised eating more of it
+nutrient,Free Triiodothyronine (Free T3),Oxalates,-1.0,-0.1,says Oxalates lowers this test; the old model then advised eating more of it
+nutrient,Aspartate Aminotransferase,Vitamin B1,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Aspartate Aminotransferase,Vitamin B2,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Aspartate Aminotransferase,Vitamin B3,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Aspartate Aminotransferase,Vitamin B5,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Aspartate Aminotransferase,Vitamin B7,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Aspartate Aminotransferase,Vitamin B9,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Aspartate Aminotransferase,Vitamin C,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Aspartate Aminotransferase,Calcium,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Aspartate Aminotransferase,Phosphorus,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Alanine Aminotransferase,Vitamin B1,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Alanine Aminotransferase,Vitamin B2,-1.0,0.2,bias and weight point in opposite directions
+nutrient,Alanine Aminotransferase,Vitamin B3,-1.0,0.2,bias and weight point in opposite directions
+nutrient,Alanine Aminotransferase,Vitamin B5,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Alanine Aminotransferase,Vitamin B9,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Alanine Aminotransferase,Vitamin C,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Alanine Aminotransferase,Phosphorus,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Alkaline Phosphatase,Sodium,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Alkaline Phosphatase,Sodium,-1.0,0.1,says Sodium lowers this test; the old model then advised eating more of it
+nutrient,Gamma-Glutamyl Transferase,Vitamin C,-1.0,0.2,bias and weight point in opposite directions
+nutrient,Gamma-Glutamyl Transferase,Magnesium,-1.0,0.2,bias and weight point in opposite directions
+nutrient,Bilirubin,Vitamin C,-1.0,0.2,bias and weight point in opposite directions
+nutrient,Bilirubin,Calcium,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Bilirubin,Phosphorus,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Lactate Dehydrogenase,Vitamin C,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Prothrombin Time,Magnesium,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Partial Thromboplastin Time,Vitamin C,-1.0,0.2,bias and weight point in opposite directions
+nutrient,Partial Thromboplastin Time,Sodium,-1.0,0.5,bias and weight point in opposite directions
+nutrient,Partial Thromboplastin Time,Sodium,-1.0,0.5,says Sodium lowers this test; the old model then advised eating more of it
+nutrient,Partial Thromboplastin Time,Alcohol,0.0,-0.3,says Alcohol lowers this test; the old model then advised eating more of it
+nutrient,Fibrinogen,Vitamin C,-1.0,0.1,bias and weight point in opposite directions
+nutrient,Fibrinogen,Magnesium,-1.0,0.3,bias and weight point in opposite directions
+nutrient,Fibrinogen,Alcohol,0.0,-0.2,says Alcohol lowers this test; the old model then advised eating more of it

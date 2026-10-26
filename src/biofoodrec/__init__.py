@@ -10,4 +10,4 @@ from .reference import ReferenceData
 from .tuning import Tuning
 
 __all__ = ["FoodRecommender", "Labs", "Recommendation", "ReferenceData", "Tuning", "read_labs", "sample_patient"]
-__version__ = "0.2.0"
+__version__ = "0.3.0"

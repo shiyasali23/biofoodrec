@@ -80,6 +80,11 @@ class ReferenceData:
     def from_frames(cls, *, biochemicals, foods, nutrients, food_bias, food_weight, nutrient_bias, nutrient_weight):
         """Build from DataFrames indexed by name, e.g. ones read from the Django ORM instead of CSV."""
         problems = []
+        for label, frame in (("biochemicals", biochemicals), ("foods", foods), ("nutrients", nutrients),
+                             ("food_bias", food_bias), ("food_weight", food_weight),
+                             ("nutrient_bias", nutrient_bias), ("nutrient_weight", nutrient_weight)):
+            if repeated := sorted(set(frame.index[frame.index.duplicated()])):
+                problems.append(f"{label} lists these names more than once: {repeated[:5]}")
         if missing := _missing(BIOCHEMICAL_COLUMNS, biochemicals.columns):
             problems.append(f"biochemicals table lacks columns {missing}")
         if missing := _missing(FOOD_COLUMNS, foods.columns):
@@ -115,7 +120,9 @@ class ReferenceData:
     # Lookups
 
     def biochemical_name(self, key: str | int) -> str:
-        """Accept a name or the backend's 1-based biochemical id."""
+        """Accept a name or the backend's 1-based biochemical id (also as text, since JSON keys are text)."""
+        if isinstance(key, str) and key not in self.biochemicals.index and key.strip().isdigit():
+            key = int(key)
         if isinstance(key, (int, np.integer)) and not isinstance(key, bool):
             if not 1 <= key <= len(self.biochemicals):
                 raise KeyError(f"biochemical id {key} is out of range 1..{len(self.biochemicals)}")
