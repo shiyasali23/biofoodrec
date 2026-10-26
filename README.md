@@ -252,6 +252,10 @@ pip install "./biofoodrec[notebook]"
 jupyter lab examples/try_biofoodrec.ipynb
 ```
 
+## License
+
+Apache License 2.0, see [LICENSE](LICENSE). This covers the code and the data tables that ship with it.
+
 ## Tests
 
 ```bash
