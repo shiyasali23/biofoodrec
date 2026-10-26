@@ -12,7 +12,7 @@ import numpy as np
 import pandas as pd
 import pytest
 
-from biofoodrec import FoodRecommender, ReferenceData, Tuning
+from pyclinics import FoodRecommender, ReferenceData, Tuning
 
 EXPECTED = json.loads((Path(__file__).parent / "data/backend_demo_output.json").read_text())
 LAST = EXPECTED["entries"][-1]["biometrics"]

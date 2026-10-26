@@ -3,7 +3,7 @@ import json
 import numpy as np
 import pytest
 
-from biofoodrec import FoodRecommender, Tuning, sample_patient
+from pyclinics import FoodRecommender, Tuning, sample_patient
 
 
 @pytest.fixture(scope="module")

@@ -1,6 +1,6 @@
-# biofoodrec
+# pyclinics
 
-[![tests](https://github.com/shiyasali23/biofoodrec/actions/workflows/tests.yml/badge.svg)](https://github.com/shiyasali23/biofoodrec/actions/workflows/tests.yml)
+[![tests](https://github.com/shiyasali23/pyclinics/actions/workflows/tests.yml/badge.svg)](https://github.com/shiyasali23/pyclinics/actions/workflows/tests.yml)
 
 Food recommendations from blood test results.
 
@@ -18,16 +18,16 @@ or clinic platform can install it and use it directly. The Biolabs data is insid
 ## Install
 
 ```bash
-pip install git+https://github.com/shiyasali23/biofoodrec
+pip install git+https://github.com/shiyasali23/pyclinics
 ```
 
-Or from a local copy: `pip install ./biofoodrec`.
+Or from a local copy: `pip install ./pyclinics`.
 It needs Python 3.9 or newer, numpy and pandas.
 
 ## Quick start
 
 ```python
-from biofoodrec import FoodRecommender
+from pyclinics import FoodRecommender
 
 rec = FoodRecommender()
 result = rec.recommend({"Blood Glucose": 130, "Vitamin D": 14, "LDL Cholesterol": 175}, sex="female")
@@ -96,7 +96,7 @@ An admin keeps one `Tuning` for everyone. Each person gets a small patch on top 
 needs to be saved for that person.
 
 ```python
-from biofoodrec import FoodRecommender, Tuning, sample_patient
+from pyclinics import FoodRecommender, Tuning, sample_patient
 
 clinic = Tuning()
 person = clinic.update({
@@ -234,7 +234,7 @@ The package ships these files from `Biolabs/backend/datasets`:
 To use your own tables:
 
 ```python
-from biofoodrec import FoodRecommender, ReferenceData
+from pyclinics import FoodRecommender, ReferenceData
 
 ref = ReferenceData.from_csv_dir("my_folder")                                 # all 7 files
 ref = ReferenceData.from_csv_dir("my_folder", food_weight="new_weights.csv")  # swap one file
@@ -246,12 +246,12 @@ listed twice, the error message names it.
 
 ## Notebook
 
-`examples/try_biofoodrec.ipynb` walks through everything with the demo patient, including the matrix
+`examples/try_pyclinics.ipynb` walks through everything with the demo patient, including the matrix
 math step by step, the safety rules, and sliders for the settings.
 
 ```bash
-pip install "./biofoodrec[notebook]"
-jupyter lab examples/try_biofoodrec.ipynb
+pip install "./pyclinics[notebook]"
+jupyter lab examples/try_pyclinics.ipynb
 ```
 
 ## License
@@ -261,7 +261,7 @@ Apache License 2.0, see [LICENSE](LICENSE). This covers the code and the data ta
 ## Tests
 
 ```bash
-pip install "./biofoodrec[test]"
+pip install "./pyclinics[test]"
 pytest
 ```
 

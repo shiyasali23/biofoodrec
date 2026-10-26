@@ -3,8 +3,8 @@ requires = ["setuptools>=77"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "biofoodrec"
-version = "0.3.0"
+name = "pyclinics"
+version = "0.4.0"
 description = "Food recommendations from blood test results, with bias and weight tables you can tune per person"
 readme = "README.md"
 license = "Apache-2.0"
@@ -27,9 +27,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/shiyasali23/biofoodrec"
-Repository = "https://github.com/shiyasali23/biofoodrec"
-Issues = "https://github.com/shiyasali23/biofoodrec/issues"
+Homepage = "https://github.com/shiyasali23/pyclinics"
+Repository = "https://github.com/shiyasali23/pyclinics"
+Issues = "https://github.com/shiyasali23/pyclinics/issues"
 
 [project.optional-dependencies]
 test = ["pytest>=7"]
@@ -39,7 +39,7 @@ notebook = ["jupyterlab>=4", "ipywidgets>=8"]
 where = ["src"]
 
 [tool.setuptools.package-data]
-biofoodrec = ["data/*.csv", "data/*.json"]
+pyclinics = ["data/*.csv", "data/*.json"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

@@ -10,5 +10,5 @@ dietitian should check before these tables are used with patients.
 
 Columns: `table` (food or nutrient), `biochemical`, `food_or_nutrient`, `bias`, `weight`, `issue`.
 
-To fix a cell, edit the CSV in `src/biofoodrec/data/` or override it per clinic with
+To fix a cell, edit the CSV in `src/pyclinics/data/` or override it per clinic with
 `Tuning(food_cells=...)` or `Tuning(nutrient_cells=...)`.

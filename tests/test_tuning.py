@@ -1,6 +1,6 @@
 import pytest
 
-from biofoodrec import Tuning
+from pyclinics import Tuning
 
 
 def test_tuning_layers_and_round_trips():
@@ -23,7 +23,7 @@ def test_rejects_bad_values():
 
 
 def test_scaling_choices_at_the_edge():
-    from biofoodrec import FoodRecommender
+    from pyclinics import FoodRecommender
     rec = FoodRecommender()
     just_over = {"Hemoglobin A1c": 5.8}  # healthy 4 to 5.6
     dev = lambda scaling: rec.deviations(just_over, "female", Tuning(scaling=scaling)).deviation.iloc[0]

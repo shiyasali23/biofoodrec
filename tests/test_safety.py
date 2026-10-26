@@ -4,8 +4,8 @@ import math
 
 import pytest
 
-from biofoodrec import FoodRecommender, Tuning, sample_patient
-from biofoodrec.tuning import LIMIT_ONLY
+from pyclinics import FoodRecommender, Tuning, sample_patient
+from pyclinics.tuning import LIMIT_ONLY
 
 REC = FoodRecommender()
 

@@ -1,6 +1,6 @@
 """Food recommendations from blood test results. Every bias, weight and setting can be tuned per person.
 
-    from biofoodrec import FoodRecommender, sample_patient
+    from pyclinics import FoodRecommender, sample_patient
     result = FoodRecommender().recommend(sample_patient())
     print(result.summary())
 """
@@ -10,4 +10,4 @@ from .reference import ReferenceData
 from .tuning import Tuning
 
 __all__ = ["FoodRecommender", "Labs", "Recommendation", "ReferenceData", "Tuning", "read_labs", "sample_patient"]
-__version__ = "0.3.0"
+__version__ = "0.4.0"

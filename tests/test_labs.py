@@ -2,7 +2,7 @@ import json
 
 import pytest
 
-from biofoodrec import FoodRecommender, read_labs, sample_patient
+from pyclinics import FoodRecommender, read_labs, sample_patient
 
 
 def test_simple_dict():
