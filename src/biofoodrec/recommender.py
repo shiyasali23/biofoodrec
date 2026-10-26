@@ -269,6 +269,7 @@ class Recommendation:
             shift = to_direct * direct.min() + to_through * through.min()
         else:
             to_direct, to_through, shift = tuning.food_mix, tuning.nutrient_mix, 0.0
+        self._to_direct, self._to_through, self._held_through = to_direct, to_through, held_through
         self._points_direct = 100 / total * to_direct * self._pull_direct
         self._points_through = 100 / total * to_through * self._pull_through
         self._points = pd.DataFrame(self._points_direct + self._points_through, index=bios, columns=foods)
@@ -406,7 +407,10 @@ class Recommendation:
             raise KeyError(f"unknown food {food!r}")
         bios = self.reference.biochemicals.index
         f = self.reference.foods.index.get_loc(food)
-        effect = self._food_coef[:, f] + self._nutrient_coef @ self._food_nutrients[f]
+        # The food's effect on each test, weighed the same way the points are, so "raises it" or
+        # "lowers it" always agrees with the Verdict.
+        through_effect = 0.0 if self._held_through[f] else self._nutrient_coef @ self._food_nutrients[f]
+        effect = self._to_direct * self._food_coef[:, f] + self._to_through * through_effect
         direct, through = self._points_direct[:, f], self._points_through[:, f]
         out = pd.DataFrame({
             "Your result": self._status_words().to_numpy(),

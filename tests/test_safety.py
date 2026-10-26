@@ -119,3 +119,13 @@ def test_excluding_every_food_is_refused():
     groups = sorted(set(REC.reference.foods.category))
     with pytest.raises(ValueError, match="every food"):
         REC.recommend(sample_patient(), tuning=Tuning(exclude_groups=groups))
+
+
+def test_explain_wording_agrees_with_the_verdict():
+    result = REC.recommend(sample_patient())
+    for food in result.table.index:
+        rows = result.explain(food)
+        rows = rows[rows.Points.abs() >= 0.01]
+        good = ((rows["Your result"] == "High") & (rows["This food"] == "lowers it")) | \
+               ((rows["Your result"] == "Low") & (rows["This food"] == "raises it"))
+        assert (good == (rows.Verdict == "Good")).all(), (food, rows[good != (rows.Verdict == "Good")])
